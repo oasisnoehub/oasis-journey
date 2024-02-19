@@ -1,7 +1,7 @@
 # Site settings
-title: PHOTORAMA
+title: OASISNOEJ
 email: ""
-description: "Photo Journal"
+description: "OASISNOE Travel Journal"
 url: "https://oasisnoehub.github.io"
 baseurl: "/oasis-journey"
 facebook_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   YIN YILING
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: oasisnoe's photography website 
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
