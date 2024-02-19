@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Volcano Brome"
+title:      "Active Volcano"
 subtitle:   "Mount Brome & Semeru"
 active: journal
 image:
@@ -12,7 +12,11 @@ categories: [Indonesia]
 comments: false
 ---
 
-<p>Nearly all joined in singing this hymn, which swelled high above the howling of the storm. A brief pause ensued; the preacher slowly turned over the leaves of the Bible, and at last, folding his hand down upon the proper page, said: "Beloved shipmates, clinch the last verse of the first chapter of Jonah&mdash;'And God had prepared a great fish to swallow up Jonah.'"</p>
+<p>Mount Bromo is a popular tourist destination in <strong> East Java, Indonesia </strong>, and it is part of the <strong> Bromo Tengger Semeru National Park </strong>. It is one of Indonesia's most active volcanoes. The last significant eruption of Mount Bromo occurred in 2016, and it is constantly monitored for volcanic activity.</p>
+
+<p><strong>Mount Semeru </strong>, also known as Mahameru, is the highest volcano on the island of Java, standing at 3,676 meters (12,060 feet) above sea level. It is one of Indonesia's most active volcanoes, and its eruptions are characterized by mild explosions and continuous gas emissions. The last significant eruption of Mount Semeru occurred in December 2021, sending volcanic ash high into the air and forcing thousands of people to evacuate their homes.</p>
+
+<p> Both Mount Bromo and Mount Semeru are located in  <strong> the Ring of Fire </strong>, a region in the Pacific Ocean basin where many earthquakes and volcanic eruptions occur. </p>
 
 
 <p>Placeholder text by <a>YIN YILING</a>. Photography by <a>YIN YILING</a>.</p>
