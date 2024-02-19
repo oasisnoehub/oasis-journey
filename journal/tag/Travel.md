@@ -1,6 +1,6 @@
 ---
 layout: "journal_by_tag"
-tag: "Life"
-permalink: "/journal/tag/tag01/"
+tag: "Travel"
+permalink: "/journal/tag/Travel/"
 header-img: "img/archive-bg.jpg"
 ---
