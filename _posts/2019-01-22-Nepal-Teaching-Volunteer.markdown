@@ -4,9 +4,9 @@ title:      "Nepal"
 subtitle:   "Teaching Volunteer"
 active: journal
 image:
-  feature: "pc006.jpg"
+  feature: "pc004.jpg"
 date:       2019-01-22 
-header-img: "img/postcover/pc006.jpg"
+header-img: "img/postcover/pc004.jpg"
 tags: [Travel,Life,Idea]
 categories: [Nepal]
 comments: false
