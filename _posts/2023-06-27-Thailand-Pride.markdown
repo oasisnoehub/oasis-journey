@@ -16,6 +16,8 @@ comments: false
 
 <p>Bangkok, Thailand, is a bustling city known for its vibrant culture, bustling markets, and dynamic nightlife. Within this diverse and eclectic landscape lies the Sam Centre, an iconic destination that celebrates the LGBTQ+ community. As you explore this hub of acceptance and representation, you'll find an array of LGBTQ+ advertisements, events, and initiatives that showcase the city's commitment to inclusivity and diversity.</p>
 
+<img class="image-custom-inner-size" src="{{ site.baseurl }}/img/journal/Thailand/pc001.jpg" >
+
 <h2>Discovering the Sam Centre</h2>
 <p>Located in the heart of Bangkok's vibrant LGBTQ+ district, the Sam Centre is a beacon of inclusivity and support for the community. This dynamic space serves as a platform for LGBTQ+ artists, activists, and entrepreneurs to showcase their talents and share their stories.</p>
 <h2>Exploring the Ad Board</h2>

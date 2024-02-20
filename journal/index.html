@@ -13,6 +13,10 @@ header-img: "img/writing-bg.jpg"
     width: 80% !important;
     height: 60% !important;
   }
+  .image-custom-inner-size{
+    width: 50% !important;
+    height: 50% !important;
+  }
   </style>
 </head>
 
@@ -41,11 +45,10 @@ header-img: "img/writing-bg.jpg"
 
 <div class="post-preview" style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
     
-<a href="{{ post.url | prepend: site.baseurl }}">
+<a class="img-custom-size" href="{{ post.url | prepend: site.baseurl }}">
         {% if post.image.feature %}
-	<img class="img-custom-size" src="{{ site.baseurl }}/img/postcover/{{ post.image.feature }}">
+	<img src="{{ site.baseurl }}/img/postcover/{{ post.image.feature }}">
 	{% endif %}
- 
  
         <p class="post-title" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 16px; margin-left: 1em;"> &#9658; {{ post.title }}
         </p>
