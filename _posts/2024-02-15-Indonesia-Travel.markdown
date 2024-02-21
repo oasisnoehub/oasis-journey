@@ -72,7 +72,7 @@ Beijing(PKX北京大兴机场)             :         des5, after des4, 0.5d
 <blockquote>
 <p>吉隆坡一日的City Walk，很多must-to-go的地方都在中心附近可以根据自己的安排选几个走走，这次选择了艺术区、马来西亚国家博物馆和中国城，感受就是中国城真的不太值得逛，逛了之后终于明白了中国人爱坑中国人的出处了，体验不太好。马来西亚国家博物馆不错(RM 5/person)，博物馆有几个sections，包括世界板块如何形成；智人演化；马来西亚经历英国荷兰殖民史；马来西亚自身独立史；马来西亚文化如何受到中国、阿拉伯等其他文化的影响等，值得一看。⚠️ 需要注意的是博物馆的开放闭馆时间。从China Town的地铁站（忘记叫什么名字了：）做MRL线然后到KL Sentral 然后再转KLIA Transit 再走一小段路10分钟就到了，花费 RM 22/person。快到晚上就去青旅了，定的时候还没发现在厦门大学马来西亚校区附近，来的时候发现走路也就10多分钟就到。早上散步10多分钟就可以去看看，到门口给保安说说登记一下就可以参观看看。周围有许多吃的小店，还有夜市。味道还行，每次出行我都会尝试本地特色菜，虽然时常踩雷，但这不也是旅行的乐趣吗？接下来KLIA Terminal 2转机到Surabaya同样走路到地铁站坐KLIA Transit 到 KLIA T2 航站楼就继续接下来的旅程。</p>
 </blockquote>
-<p><img src="image-18.png" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc001.jpg" alt="alt text"><br>
 <em>旅途中的我</em></p>
 <blockquote>
 <p>BTW: 在路上看完的《全世界给我勇气》这本书留在了The Good Travelers Hostel的书架上，如果有谁去了的话说不定还能看到呢 ：）这本书讲述的是作者在印度的所见所闻。喜欢《全世界给我勇气》这本书中的一段话👇</p>
@@ -98,23 +98,23 @@ Beijing(PKX北京大兴机场)             :         des5, after des4, 0.5d
 <blockquote>
 <p>那一刻有没有听到 “地球心跳” 我不知道，但是我看到了。</p>
 </blockquote>
-<p><img src="home01.jpg" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc002.jpg" alt="alt text"><br>
 <em>Mount Bromo &amp; Semeru</em></p>
 <blockquote>
 <p>可以选择原路返回，或者继续往上面走另一条路线下山。我选择的远路返回，走路下火山村，其实没有多远，刚好边走边继续享受沿途的风景。</p>
 </blockquote>
-<p><img src="home02.jpg" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc003.jpg" alt="alt text"><br>
 <em>迷雾森林悬崖</em></p>
-<p><img src="default%20(34).jpeg" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc004.jpg" alt="alt text"><br>
 <em>下山过程中</em></p>
 <blockquote>
 <p>走到火山村口，也才7:00am，然后就随便到路边的一家店吃早餐，味道还不错，不过忘记店的名字了🤷。</p>
 </blockquote>
-<p><img src="default%20(35).jpeg" alt="alt text"></p>
+<p><img src="../img/journal/Indonesia/pc005.jpg" alt="alt text"></p>
 <blockquote>
 <p>这边有司机揽客，到Probolinggo（庞越）和 Banyuwangi（外南梦），因为假期不够所以就放弃到ijen火山，直接去Banyuwangi港口住宿，然后第二天一早乘轮渡去Bali躺平了：）。从Bromo火山村口直接到Banyuwangi司机小巴费用要价300k/person。如果有想要去ijen火山徒步的安排也会去Banyuwangi附近住宿，徒步完之后就方便直接到港口坐轮渡到Bali岛了。</p>
 </blockquote>
-<p><img src="image-1.png" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc006.jpg" alt="alt text"><br>
 <em>行程地图</em></p>
 <blockquote>
 <p>所以你会发现大部分时间都在车上，还是喜欢有时间慢慢体验沿途的风景，但是时间紧张也无可厚非，换一种思维，实际上也体验了一次沿海公路旅行，EAST JAVA真的就是一个巨大的野生动物保护区，一路上总能发现很多野生猴在公路边探望。</p>
@@ -124,35 +124,35 @@ Beijing(PKX北京大兴机场)             :         des5, after des4, 0.5d
 <strong>Hotel : ijen backpacker（Banyuwangi）</strong><br>
 ME: 4:00pm到定的青旅ijen backpacker, 然后就办理入住，总体来说性价比挺高的 200k/room， 如果有计划去ijen徒步的话，这里也有提供去的服务，可以问问前台。ijen backpacker离Banyuwangi港口非常近，走路几分钟就到了，周围也有挺多小店，不用担心没有吃的或者日常东西的地方。</p>
 </blockquote>
-<p><img src="ijenpacker.jpg" alt="alt text"></p>
+<p><img src="../img/journal/Indonesia/pc007.jpg" alt="alt text"></p>
 <blockquote>
 <p><strong>DAY04</strong><br>
 <strong>Hotel : FunkyPlace（Lovina）</strong><br>
 ME：第二天早上8:00am出发去现场买船票15k/person,靠近港口买15k/person，如果在外面买18k/person，船票2hr有效，所以现场去买就好了，不用提前去买。之后就登上轮渡，大概30min-50min的样子就可以到Bali岛躺平，享受海岛生活了，真的有点羡慕巴厘岛居民的生活，天气是真的很热，难怪大家的肤色看上去都很健康，不出一个星期我也可以了。</p>
 </blockquote>
-<p><img src="ferry.jpg" alt="alt text" title="去巴厘岛的轮渡上"><br>
+<p><img src="../img/journal/Indonesia/pc008.jpg" alt="alt text" title="去巴厘岛的轮渡上"><br>
 <em>去巴厘岛的轮渡上</em></p>
 <blockquote>
 <p>到了之后Bali岛的港口之后，会有很多司机招揽，经过不懈努力的砍价，讲到300k/car到Lovina定的住宿FunkyPlace。</p>
 </blockquote>
-<p><img src="image-2.png" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc009.jpg" alt="alt text"><br>
 <em>放学的巴厘岛学生</em></p>
 <blockquote>
 <p>FunkyPlace的风格有一股巴厘岛热情奔放的味道，真的是有点爱。沿着这条小道出去就是露天bar和海滩🏖️，晚上还会有表演，不过得花费一小杯酒钱坐在沙滩边看40k-100k不等，这里的服务员都好热情，还送免费的一杯one-shot。</p>
 </blockquote>
-<p><img src="default%20(24).jpeg" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc010.jpg" alt="alt text"><br>
 <em>房间外的小道</em></p>
-<p><img src="default%20(27).jpeg" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc011.jpg" alt="alt text"><br>
 <em>海滩边的露天bar</em></p>
 <blockquote>
 <p>来巴厘岛是真的可以实现榴莲自由，话都说到这里还不得来的时候多吃吃，不然回国你会后悔为什么没有多吃一点。Lovina Beach就在附近走走逛逛，会发现有很多追海豚的船，逛的时候会有人上来问你要不要看看海豚，说实话这算是Lovina挺成熟的产业了，主要大家来的目的就是为了看海豚。花费100k/person可以浮潜+看海豚。早上6:00am出发，大概来回2hr左右，太晚可能看不到，而且太阳是真的有点太给力。</p>
 </blockquote>
-<p><img src="image-3.png" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc012.jpg" alt="alt text"><br>
 <em>看海的人</em></p>
 <blockquote>
 <p>真的看到海豚的时候，才发现地球是如此的神奇！</p>
 </blockquote>
-<p><img src="image-4.png" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc013.jpg" alt="alt text"><br>
 <em>跃起的海豚群</em></p>
 <blockquote>
 <p>说真的既然这么多海豚，肯定得有鲨鱼，想到这里大海恐惧症就有点涌上心头。追完海豚之后，就准备赶往机场附近住宿，谁知道在路口遇到在Surabaya机场等过海关闲聊的朋友，看来世界虽说大，但是兜兜转转总能碰见一些人，只能说缘分不浅。看着这两位朋友喝着橙子汽水，穿着特属巴厘岛的海岛衬衫漫步向我们走来。刚好她们今天也要去机场附近于是就一起拼车从Lovinad到Kuta Beach，平均150k/person。巴厘岛的天气也真是奇怪，一路在车上经过了大雨倾盆的热带雨林和艳阳高照的城市街区。中途这个看起来凶狠的花臂司机大叔，实际上是一个可爱的高龄单身男，带我们去品尝了Luwak Coffee，也就是猫屎咖啡，host讲解了整个制作过程，还拿了许多免费咖啡小样给我们品尝，好了这下不消费是实在不太好意思了。</p>
@@ -160,21 +160,21 @@ ME：第二天早上8:00am出发去现场买船票15k/person,靠近港口买15k/
 <blockquote>
 <p>这里的Luwak Coffee来自这小家伙的poop，有点味道:-)。</p>
 </blockquote>
-<p><img src="image-7.png" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc014.jpg" alt="alt text"><br>
 <em>Luwak Coffee始作俑者</em></p>
 <blockquote>
 <p><strong>DAY05</strong><br>
 <strong>Hotel : 机场附近不推荐（体验感较差）</strong><br>
 ME: 由于要返程了，所以住宿定在机场附近，非常不推荐。建议定在kuta沙滩附近，离沙滩和机场近，方便去海滩玩。去kuta玩什么当然是冲浪🏄！当时到kuta沙滩的时候是7:00pm，很多冲浪店已经不接受冲浪了。望着落日向前走，看着沙滩漫步的情侣、奔向海滩孩子、踢沙滩足球的男生，心里总不知为什么多了一股暖流。冲浪花费150k/person，2hr=1hr教练指导+1hr自由冲，性价比不错。机缘巧合遇见Coach小哥愿意带我大晚上的去冲浪，真的太喜欢他身上的能量，扛着冲浪板就叫我赶紧go！go！go！。</p>
 </blockquote>
-<p><img src="image-8.png" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc015.jpg" alt="alt text"><br>
 <em>Kuta落日沙滩</em></p>
-<p><img src="image-17.png" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc016.jpg" alt="alt text"><br>
 <em>我和Coach小哥</em></p>
 <blockquote>
 <p>之后就全身湿透的去逛街吃饭，找到一家挺好吃的饭店，好吃爱吃：）然后就基本结束整个旅程准备收拾回住宿的地方然后赶第二天7:00am的飞机回北京。</p>
 </blockquote>
-<p><img src="default%20(36).jpeg" alt="alt text"><br>
+<p><img src="../img/journal/Indonesia/pc017.jpg" alt="alt text"><br>
 <em>飞行中的红色机翼</em></p>
 <blockquote>
 <p><strong>STORY END.</strong><br>
