@@ -4,7 +4,7 @@ title:      "Unveiling the Delights of Pattaya"
 subtitle:   "A coastal city & Life day and night"
 active: journal
 image:
-  feature: "pc007.jpg"
+  feature: ""
 date:       2024-02-17 
 header-img: "img/postcover/pc007.jpg"
 tags: [Travel,Life]

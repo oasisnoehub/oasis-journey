@@ -4,7 +4,7 @@ title:      "Pride Sam Centre in Bangkok"
 subtitle:   "LGBTQ+ Ad Board"
 active: journal
 image:
-  feature: "pc005.jpg"
+  feature: ""
 date:       2024-02-17 
 header-img: "img/postcover/pc005.jpg"
 tags: [Travel,Life,Idea]

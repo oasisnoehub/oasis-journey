@@ -4,7 +4,7 @@ title:      "Teaching Volunteer Experience in Kathmandu"
 subtitle:   "Teaching Volunteer"
 active: journal
 image:
-  feature: "pc008.jpg"
+  feature: ""
 date:       2019-01-22 
 header-img: "img/postcover/pc008.jpg"
 tags: [Travel,Life,Idea]

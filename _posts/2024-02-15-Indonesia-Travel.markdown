@@ -4,7 +4,7 @@ title:      "Active Volcano"
 subtitle:   "Mount Bromo & Semeru"
 active: journal
 image:
-  feature: "pc001.jpg"
+  feature: ""
 date:       2024-02-17 
 header-img: "img/postcover/pc001.jpg"
 tags: [Travel,Life]

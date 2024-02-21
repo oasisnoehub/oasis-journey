@@ -4,7 +4,7 @@ title:      "Kuala Lumpur's City Walk"
 subtitle:   "A Journey through the Heart of the Malaysian Capital"
 active: journal
 image:
-  feature: "pc006.jpg"
+  feature: ""
 date:       2024-02-13 
 header-img: "img/postcover/pc006.jpg"
 tags: [Travel]
