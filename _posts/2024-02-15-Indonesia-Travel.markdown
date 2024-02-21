@@ -5,7 +5,7 @@ subtitle:   "Mount Bromo & Semeru"
 active: journal
 image:
   feature: ""
-date:       2024-02-17 
+date:       2024-02-16 
 header-img: "img/postcover/pc001.jpg"
 tags: [Travel,Life]
 categories: [Indonesia]
