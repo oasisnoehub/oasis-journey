@@ -51,7 +51,7 @@ comments: false
 <p>｜ 软件:住宿（Agoda,Booking）: 交通(Grab+地铁+摩托) ｜<br>
 ｜ 免责声明：根据自身情况选择预定软件和住宿地址｜</p>
 <blockquote>
-<p><strong>DAY01</strong><br>
+<p  style="color: #530720;" ><strong>DAY01</strong><br>
 <strong>Airport : Lapangan Terbang Antarabangsa Kuala Lumpur  吉隆坡国际机场</strong><br>
 <strong>Hotel : The Good Travelers Hostel - KL Airport</strong><br>
 <strong>Visa: 中国免签</strong><br>
