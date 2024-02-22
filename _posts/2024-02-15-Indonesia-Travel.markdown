@@ -93,14 +93,14 @@ comments: false
 <blockquote>
 <p>看完日出后，可选择原路返回，或者继续往上面走另一条路线下山。我选择的远路返回，走路下火山村，其实没有多远，刚好边走边继续享受沿途的风景。</p>
 </blockquote>
-<p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc003.jpg" alt="alt text"><br>
+<p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc003.jpg" alt="alt text" width="560px" height="680px"><br>
 <em>迷雾森林悬崖</em></p>
-<p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc004.jpg" alt="alt text"><br>
+<p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc004.jpg" alt="alt text" width="680px" height="420px"><br>
 <em>下山过程中</em></p>
 <blockquote>
 <p>7:00am 走到火山村口，随便到路边的一家店吃早餐，味道还不错，不过忘记店名了🤷。</p>
 </blockquote>
-<p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc005.jpg" alt="alt text" width="780px" height="420px"></p>
+<p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc005.jpg" alt="alt text" width="680px" height="420px"></p>
 <blockquote>
 <p>这边有司机揽客，到 Probolinggo（庞越）和 Banyuwangi（外南梦），因为假期不够所以就放弃到ijen火山的安排，直接去 Banyuwangi港口住宿，然后明天一早乘轮渡去Bali岛躺平 ：）。从Bromo火山村口直接到 Banyuwangi住宿的地方，司机要价300k/person。如果有ijen火山徒步的安排，也可以到 Banyuwangi 附近住宿，可以把包放在住宿的地方，减轻负重，徒步完ijen后，取行李，就可直接到港口坐轮渡到Bali岛。</p>
 </blockquote>
@@ -120,7 +120,7 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc007.jpg" alt="alt text">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc007.jpg" alt="alt text" width="560px" height="680px">
   <br>
   <em>ijen backpacker</em>
 </p>
@@ -137,7 +137,7 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc008.jpg" alt="alt text" width="780px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc008.jpg" alt="alt text" width="560px" height="680px">
   <br>
   <em>去巴厘岛的轮渡</em>
 </p>
@@ -147,7 +147,7 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc009.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc009.jpg" alt="alt text" width="780px" height="420px">
   <br>
   <em>放学的巴厘岛学生</em>
 </p>
@@ -157,13 +157,13 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc010.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc010.jpg" alt="alt text" width="560px" height="680px">
   <br>
   <em>房间外小道</em>
 </p>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc011.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc011.jpg" alt="alt text" width="560px" height="680px">
   <br>
   <em>海滩露天bar</em>
 </p>
@@ -173,7 +173,7 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc012.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc012.jpg" alt="alt text" width="580px" height="420px">
   <br>
   <em>看海的人</em>
 </p>
@@ -183,7 +183,7 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc013.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc013.jpg" alt="alt text" width="560px" height="420px">
   <br>
   <em>跃起的海豚群</em>
 </p>
@@ -201,7 +201,7 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc014.jpg" alt="alt text" width="680px" height="420px"><br>
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc014.jpg" alt="alt text" width="680px" height="380px"><br>
   <em>Luwak Coffee 始作俑者</em>
 </p>
 
@@ -229,7 +229,7 @@ comments: false
 </p>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc016.jpg" alt="alt text" width="680px" height="420px"><br>
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc016.jpg" alt="alt text" width="480px" height="360px"><br>
   <em>我和Coach小哥</em>
 </p>
 
