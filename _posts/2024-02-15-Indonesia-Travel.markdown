@@ -51,7 +51,7 @@ comments: false
 <p>｜ 软件:住宿（Agoda,Booking）: 交通(Grab+地铁+摩托) ｜<br>
 ｜ 免责声明：根据自身情况选择预定软件和住宿地址｜</p>
 <blockquote>
-<p  style="color: #530720;" ><strong>DAY01</strong><br>
+<p  style="color: white;" ><strong>DAY01</strong><br>
 <strong>Airport : Lapangan Terbang Antarabangsa Kuala Lumpur  吉隆坡国际机场</strong><br>
 <strong>Hotel : The Good Travelers Hostel - KL Airport</strong><br>
 <strong>Visa: 中国免签</strong><br>
@@ -74,7 +74,7 @@ comments: false
 <p>“只不过，在旅行中，时间和空间都有了全新的面貌。一年的坐标不再只是四季，变成了纬度和海拔；一天的坐标不再只是24小时，变成了时区和时差；地图不再是一张纸，变成了一个立体的世界；那些在地图上的名字也不再是几个陌生的单词，变成了一个个停留的地方。”</p>
 </blockquote>
 <blockquote>
-<p><strong>DAY02</strong><br>
+<p style="color: white;" ><strong>DAY02</strong><br>
 <strong>Airport : Juanda International Airport - Terminal 2 International Flight  朱安达国际机场 T2</strong><br>
 <strong>Hotel : 无计划（随便找的不推荐）</strong><br>
 <strong>Visa: visa-on-arrival 落地签 （$35/person）</strong></p>
@@ -113,13 +113,13 @@ comments: false
 <p>所以你会发现大部分时间都在车上，还是喜欢有时间慢慢体验沿途的风景，但是时间紧张也无可厚非，换一种思维，实际上也体验了一次沿海公路旅行，EAST JAVA真的就是一个巨大的野生动物保护区，一路上总能发现很多野生猴在公路边探望。</p>
 </blockquote>
 <blockquote>
-<p><strong>DAY03</strong><br>
+<p style="color: white;" ><strong>DAY03</strong><br>
 <strong>Hotel : ijen backpacker（Banyuwangi）</strong><br>
 ME: 4:00pm到定的青旅ijen backpacker, 然后就办理入住，总体来说性价比挺高的 200k/room， 如果有计划去ijen徒步的话，这里也有提供去的服务，可以问问前台。ijen backpacker离Banyuwangi港口非常近，走路几分钟就到了，周围也有挺多小店，不用担心没有吃的或者日常东西的地方。</p>
 </blockquote>
 <p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc007.jpg" alt="alt text"></p>
 <blockquote>
-<p><strong>DAY04</strong><br>
+<p style="color: white;" ><strong>DAY04</strong><br>
 <strong>Hotel : FunkyPlace（Lovina）</strong><br>
 ME：第二天早上8:00am出发去现场买船票15k/person,靠近港口买15k/person，如果在外面买18k/person，船票2hr有效，所以现场去买就好了，不用提前去买。之后就登上轮渡，大概30min-50min的样子就可以到Bali岛躺平，享受海岛生活了，真的有点羡慕巴厘岛居民的生活，天气是真的很热，难怪大家的肤色看上去都很健康，不出一个星期我也可以了。</p>
 </blockquote>
@@ -156,7 +156,7 @@ ME：第二天早上8:00am出发去现场买船票15k/person,靠近港口买15k/
 <p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc014.jpg" alt="alt text"><br>
 <em>Luwak Coffee始作俑者</em></p>
 <blockquote>
-<p><strong>DAY05</strong><br>
+<p style="color: white;" ><strong>DAY05</strong><br>
 <strong>Hotel : 机场附近不推荐（体验感较差）</strong><br>
 ME: 由于要返程了，所以住宿定在机场附近，非常不推荐。建议定在kuta沙滩附近，离沙滩和机场近，方便去海滩玩。去kuta玩什么当然是冲浪🏄！当时到kuta沙滩的时候是7:00pm，很多冲浪店已经不接受冲浪了。望着落日向前走，看着沙滩漫步的情侣、奔向海滩孩子、踢沙滩足球的男生，心里总不知为什么多了一股暖流。冲浪花费150k/person，2hr=1hr教练指导+1hr自由冲，性价比不错。机缘巧合遇见Coach小哥愿意带我大晚上的去冲浪，真的太喜欢他身上的能量，扛着冲浪板就叫我赶紧go！go！go！。</p>
 </blockquote>
@@ -170,7 +170,7 @@ ME: 由于要返程了，所以住宿定在机场附近，非常不推荐。建�
 <p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc017.jpg" alt="alt text"><br>
 <em>飞行中的红色机翼</em></p>
 <blockquote>
-<p><strong>STORY END.</strong><br>
+<p style="color: white;" ><strong>STORY END.</strong><br>
 “我旅行是因为喜欢到处走动，我享受旅行给我的自由感觉，我很高兴摆脱羁绊，责任和义务我喜爱未知事物，我结识一些奇人，他们给我片刻欢愉，我时常腻烦我自己，以为借助旅行可以丰富个性，让我略有改观，我旅行一趟，回来的时候不会依然故我”<br>
 -- 毛姆</p>
 </blockquote>
