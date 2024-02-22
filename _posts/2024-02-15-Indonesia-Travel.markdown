@@ -65,7 +65,7 @@ comments: false
 <p>
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Indonesia/pc001.jpg" alt="Me during the trip" width="560px" height="680px">
-<figcaption>旅途中</figcaption>
+<figcaption style="font-size: 14px; color: gray;">旅途中</figcaption>
 </figure></p>
 <blockquote>
 <p>BTW: 在路上看完《全世界给我勇气》这本书留在了The Good Travelers Hostel的书架上，如果有谁去了的话说不定还能看到 ：）这本书讲述的是作者在印度的所见所闻。喜欢《全世界给我勇气》这本书中的一段话👇</p>
@@ -91,24 +91,46 @@ comments: false
 <blockquote>
 <p>那一刻有没有听到 “地球心跳” 我不知道，但是我看到了。</p>
 </blockquote>
-<p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc002.jpg" alt="alt text"><br>
-<em>Mount Bromo &amp; Semeru</em></p>
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc002.jpg" alt="alt text">
+<figcaption style="font-size: 14px; color: gray;">Mount Bromo &amp; Semeru</figcaption>
+</figure>
+</p>
+
 <blockquote>
 <p>看完日出后，可选择原路返回，或者继续往上面走另一条路线下山。我选择的远路返回，走路下火山村，其实没有多远，刚好边走边继续享受沿途的风景。</p>
 </blockquote>
-<p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc003.jpg" alt="alt text" width="560px" height="680px"><br>
-<em>迷雾森林悬崖</em></p>
-<p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc004.jpg" alt="alt text" width="680px" height="420px"><br>
-<em>下山过程中</em></p>
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc003.jpg" alt="alt text" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">迷雾森林悬崖</figcaption>
+</figure>
+</p>
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc004.jpg" alt="alt text" width="680px" height="420px"><br>
+<figcaption style="font-size: 14px; color: gray;">下山过程中</figcaption>
+</figure>
+</p>
 <blockquote>
 <p>7:00am 走到火山村口，随便到路边的一家店吃早餐，味道还不错，不过忘记店名了🤷。</p>
 </blockquote>
-<p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc005.jpg" alt="alt text" width="680px" height="420px"></p>
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc005.jpg" alt="alt text" width="680px" height="420px">
+<figcaption style="font-size: 14px; color: gray;">火山村口路边餐厅</figcaption>
+</figure>
+</p>
 <blockquote>
 <p>这边有司机揽客，到 Probolinggo（庞越）和 Banyuwangi（外南梦），因为假期不够所以就放弃到ijen火山的安排，直接去 Banyuwangi港口住宿，然后明天一早乘轮渡去Bali岛躺平 ：）。从Bromo火山村口直接到 Banyuwangi住宿的地方，司机要价300k/person。如果有ijen火山徒步的安排，也可以到 Banyuwangi 附近住宿，可以把包放在住宿的地方，减轻负重，徒步完ijen后，取行李，就可直接到港口坐轮渡到Bali岛。</p>
 </blockquote>
-<p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc006.jpg" alt="alt text"><br>
-<em>行程路线</em></p>
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc006.jpg" alt="alt text">
+<figcaption style="font-size: 14px; color: gray;">行程路线</figcaption>
+</figure>
+</p>
 <blockquote>
 <p>所以会发现大部分时间都在车上，还是喜欢有时间慢慢体验沿途的风景，但是时间紧张也无可厚非，换一种思维，实际上也体验了一次沿海公路旅行，EAST JAVA真的就是一个巨大的野生动物保护区，一路上总能发现很多野生猴在公路边探望。</p>
 </blockquote>
@@ -123,9 +145,10 @@ comments: false
 </blockquote>
 
 <p>
+  <figure>
   <img src="{{ site.baseurl }}/img/journal/Indonesia/pc007.jpg" alt="alt text" width="560px" height="680px">
-  <br>
-  <em>ijen backpacker</em>
+  <figcaption style="font-size: 14px; color: gray;">ijen backpacker</figcaption>
+  </figure>
 </p>
 
 <blockquote>
@@ -140,9 +163,10 @@ comments: false
 </blockquote>
 
 <p>
+  <figure>
   <img src="{{ site.baseurl }}/img/journal/Indonesia/pc008.jpg" alt="alt text" width="560px" height="680px">
-  <br>
-  <em>去巴厘岛的轮渡</em>
+  <figcaption style="font-size: 14px; color: gray;">去巴厘岛的轮渡</figcaption>
+  </figure>
 </p>
 
 <blockquote>
@@ -150,9 +174,10 @@ comments: false
 </blockquote>
 
 <p>
+  <figure>
   <img src="{{ site.baseurl }}/img/journal/Indonesia/pc009.jpg" alt="alt text" width="560px" height="420px">
-  <br>
-  <em>放学的巴厘岛学生</em>
+  <figcaption style="font-size: 14px; color: gray;">放学的巴厘岛学生</figcaption>
+  </figure>
 </p>
 
 <blockquote>
@@ -160,15 +185,17 @@ comments: false
 </blockquote>
 
 <p>
+  <figure>
   <img src="{{ site.baseurl }}/img/journal/Indonesia/pc010.jpg" alt="alt text" width="560px" height="680px">
-  <br>
-  <em>房间外小道</em>
+  <figcaption style="font-size: 14px; color: gray;">房间外小道</figcaption>
+  </figure>
 </p>
 
 <p>
+  <figure>
   <img src="{{ site.baseurl }}/img/journal/Indonesia/pc011.jpg" alt="alt text" width="560px" height="680px">
-  <br>
-  <em>海滩露天bar</em>
+  <figcaption style="font-size: 14px; color: gray;">海滩露天bar</figcaption>
+  </figure>
 </p>
 
 <blockquote>
@@ -176,9 +203,10 @@ comments: false
 </blockquote>
 
 <p>
+  <figure>
   <img src="{{ site.baseurl }}/img/journal/Indonesia/pc012.jpg" alt="alt text" width="580px" height="420px">
-  <br>
-  <em>看海的人</em>
+  <figcaption style="font-size: 14px; color: gray;">看海的人</figcaption>
+  </figure>
 </p>
 
 <blockquote>
@@ -186,9 +214,10 @@ comments: false
 </blockquote>
 
 <p>
+ <figure>
   <img src="{{ site.baseurl }}/img/journal/Indonesia/pc013.jpg" alt="alt text" width="560px" height="420px">
-  <br>
-  <em>跃起的海豚群</em>
+   <figcaption style="font-size: 14px; color: gray;">跃起的海豚群</figcaption>
+   </figure>
 </p>
 
 <blockquote>
@@ -204,8 +233,10 @@ comments: false
 </blockquote>
 
 <p>
+ <figure>
   <img src="{{ site.baseurl }}/img/journal/Indonesia/pc014.jpg" alt="alt text" width="480px" height="360px"><br>
-  <em>Luwak Coffee 始作俑者</em>
+   <figcaption style="font-size: 14px; color: gray;">Luwak Coffee 始作俑者</figcaption>
+   </figure>
 </p>
 
 <blockquote>
@@ -226,14 +257,17 @@ comments: false
 </blockquote>
 
 <p>
+ <figure>
   <img src="{{ site.baseurl }}/img/journal/Indonesia/pc015.jpg" alt="alt text" >
-  <br>
-  <em>Kuta落日沙滩</em>
+  <figcaption style="font-size: 14px; color: gray;">Kuta落日沙滩</figcaption>
+   </figure>
 </p>
 
 <p>
+<figure>
   <img src="{{ site.baseurl }}/img/journal/Indonesia/pc016.jpg" alt="alt text" width="480px" height="360px"><br>
-  <em>我和Coach小哥</em>
+  <figcaption style="font-size: 14px; color: gray;">我和Coach小哥</figcaption>
+  </figure>
 </p>
 
 <blockquote>
@@ -243,9 +277,10 @@ comments: false
 </blockquote>
 
 <p>
+<figure>
   <img src="{{ site.baseurl }}/img/journal/Indonesia/pc017.jpg" alt="alt text" width="680px" height="420px">
-  <br>
-  <em>飞行红色机翼</em>
+  <figcaption style="font-size: 14px; color: gray;">飞行红色机翼</figcaption>
+  </figure>
 </p>
 
 <blockquote>
