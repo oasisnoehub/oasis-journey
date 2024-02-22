@@ -141,8 +141,9 @@ comments: false
 </blockquote>
 
 <blockquote>
-  <p>准备以Banyuwangi为出发点，从East Java转换到接下来的Bali岛。<p>
+  <p>准备以Banyuwangi为出发点，从East Java转换到接下来的Bali岛。</p>
 </blockquote>
+
 <p>
   <figure>
   <img src="{{ site.baseurl }}/img/journal/Indonesia/balimap.jpg" alt="alt text" width="780px" height="480px">
