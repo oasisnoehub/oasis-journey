@@ -107,43 +107,4 @@ document.addEventListener("DOMContentLoaded", function () {
 
   <br>
   <h6>BY: <a>YIN YILING</a>
-
-
-    <script type="module">
-      // TODO: If ZenUML gets integrated into mermaid in the future,
-      //      we can remove the following lines.
-      
-      
-      var MERMAID_CONFIG = ({"startOnLoad":false});
-      if (typeof MERMAID_CONFIG !== 'undefined') {
-        MERMAID_CONFIG.startOnLoad = false
-        MERMAID_CONFIG.cloneCssStyles = false
-        MERMAID_CONFIG.theme = "default"
-      }
-      
-      mermaid.initialize(MERMAID_CONFIG || {})
-      if (typeof(window['Reveal']) !== 'undefined') {
-        function mermaidRevealHelper(event) {
-          var currentSlide = event.currentSlide
-          var diagrams = currentSlide.querySelectorAll('.mermaid')
-          for (var i = 0; i < diagrams.length; i++) {
-            var diagram = diagrams[i]
-            if (!diagram.hasAttribute('data-processed')) {
-              mermaid.init(null, diagram, ()=> {
-                Reveal.slide(event.indexh, event.indexv)
-              })
-            }
-          }
-        }
-        Reveal.addEventListener('slidetransitionend', mermaidRevealHelper)
-        Reveal.addEventListener('ready', mermaidRevealHelper)
-        await mermaid.run({
-          nodes: document.querySelectorAll('.mermaid')
-        })
-      } else {
-        await mermaid.run({
-          nodes: document.querySelectorAll('.mermaid')
-        })
-      }
-      </script>
 </body>
