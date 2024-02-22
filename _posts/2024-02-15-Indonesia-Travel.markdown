@@ -11,7 +11,7 @@ tags: [Travel,Life]
 categories: [Indonesia]
 comments: false
 ---
-<h2>Introduction 介绍</h2>
+<h1>Introduction 介绍</h1>
 <blockquote>
 <p>
 <strong>Bromo-Tengger-Semeru National Park (Taman Nasional Bromo Tengger Semeru)</strong> is a national park in East Java. It is home to five volcanoes and a sand sea in the caldera of the ancient Tengger volcano, has a rugged, other-worldly landscape, and offers lots of hiking opportunities.[Cite:wikivoyage]
@@ -139,6 +139,14 @@ comments: false
   <p style="color: white;" ><strong>DAY03</strong><br>
   <strong>Hotel : ijen backpacker（Banyuwangi）</strong></p>
 </blockquote>
+
+<p>
+  <figure>
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/balimap.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">巴厘岛旅程路线</figcaption>
+  </figure>
+</p>
+
 
 <blockquote>
   <p> ME: 4:00pm 到定的青旅ijen backpacker, 然后就办理入住，总体来说性价比挺高的 200k/room， 如果有计划去ijen徒步的话，这里也有提供去的服务，可以问问前台。ijen backpacker离Banyuwangi港口非常近，走路几分钟就到了，周围也有挺多小店，不用担心没有吃的或者日常东西的地方。</p>
