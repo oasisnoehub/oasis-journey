@@ -100,7 +100,7 @@ comments: false
 <blockquote>
 <p>7:00am 走到火山村口，随便到路边的一家店吃早餐，味道还不错，不过忘记店名了🤷。</p>
 </blockquote>
-<p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc005.jpg" alt="alt text"></p>
+<p><img src="{{ site.baseurl }}/img/journal/Indonesia/pc005.jpg" alt="alt text" width="780px" height="420px"></p>
 <blockquote>
 <p>这边有司机揽客，到 Probolinggo（庞越）和 Banyuwangi（外南梦），因为假期不够所以就放弃到ijen火山的安排，直接去 Banyuwangi港口住宿，然后明天一早乘轮渡去Bali岛躺平 ：）。从Bromo火山村口直接到 Banyuwangi住宿的地方，司机要价300k/person。如果有ijen火山徒步的安排，也可以到 Banyuwangi 附近住宿，可以把包放在住宿的地方，减轻负重，徒步完ijen后，取行李，就可直接到港口坐轮渡到Bali岛。</p>
 </blockquote>
@@ -137,7 +137,7 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc008.jpg" alt="alt text" title="去巴厘岛的轮渡">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc008.jpg" alt="alt text" width="780px" height="420px">
   <br>
   <em>去巴厘岛的轮渡</em>
 </p>
@@ -147,7 +147,7 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc009.jpg" alt="alt text">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc009.jpg" alt="alt text" width="680px" height="420px">
   <br>
   <em>放学的巴厘岛学生</em>
 </p>
@@ -157,13 +157,13 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc010.jpg" alt="alt text">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc010.jpg" alt="alt text" width="680px" height="420px">
   <br>
   <em>房间外小道</em>
 </p>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc011.jpg" alt="alt text">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc011.jpg" alt="alt text" width="680px" height="420px">
   <br>
   <em>海滩露天bar</em>
 </p>
@@ -173,7 +173,7 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc012.jpg" alt="alt text">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc012.jpg" alt="alt text" width="680px" height="420px">
   <br>
   <em>看海的人</em>
 </p>
@@ -183,7 +183,7 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc013.jpg" alt="alt text">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc013.jpg" alt="alt text" width="680px" height="420px">
   <br>
   <em>跃起的海豚群</em>
 </p>
@@ -201,7 +201,7 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc014.jpg" alt="alt text"><br>
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc014.jpg" alt="alt text" width="680px" height="420px"><br>
   <em>Luwak Coffee 始作俑者</em>
 </p>
 
@@ -223,13 +223,13 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc015.jpg" alt="alt text">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc015.jpg" alt="alt text" >
   <br>
   <em>Kuta落日沙滩</em>
 </p>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc016.jpg" alt="alt text"><br>
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc016.jpg" alt="alt text" width="680px" height="420px"><br>
   <em>我和Coach小哥</em>
 </p>
 
@@ -240,7 +240,7 @@ comments: false
 </blockquote>
 
 <p>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc017.jpg" alt="alt text">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc017.jpg" alt="alt text" width="680px" height="420px">
   <br>
   <em>飞行红色机翼</em>
 </p>
