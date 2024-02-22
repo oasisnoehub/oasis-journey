@@ -44,18 +44,10 @@ comments: false
 <h1 id="incomplete-travel-guide--journal">Incomplete Travel Guide &amp; Journal </h1>
 <p>-- BY YIN YILING</p>
 <h2 id="itinerary-行程">Itinerary 行程 </h2>
-<div class="mermaid">gantt
-dateFormat  YYYY-MM-DD
-title 行程 ITINERARY
-excludes weekdays 2014-01-10
-
-section 行程
-Kulu Lumpur(KUL吉隆坡国际机场)   :active,  des1, 2024-02-13, 1d
-Surabaya(SUB朱安达国际机场)               :         des2, after des1, 1d
-Denpasar-Bali(DPS伍拉·赖国际机场)             :         des3, after des2, 1d
-Kulu Lumpur(KUL吉隆坡国际机场)             :         des4, after des3, 0.5d
-Beijing(PKX北京大兴机场)             :         des5, after des4, 0.5d
-</div><h2 id="incomplete-travel-guide-不完全旅游攻略">Incomplete Travel Guide 不完全旅游攻略 </h2>
+<div class="mermaid">
+<img src="{{ site.baseurl }}/img/journal/Indonesia/Itinerary.jpg" alt="alt text"><br>
+</div>
+<h2 id="incomplete-travel-guide-不完全旅游攻略">Incomplete Travel Guide 不完全旅游攻略 </h2>
 <p>｜ 软件:住宿（Agoda,Booking）: 交通(Grab+地铁+摩托) ｜<br>
 ｜ 免责声明：根据自身情况选择预定软件和住宿地址｜</p>
 <blockquote>
