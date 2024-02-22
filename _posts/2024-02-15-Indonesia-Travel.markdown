@@ -140,9 +140,12 @@ comments: false
   <strong>Hotel : ijen backpacker（Banyuwangi）</strong></p>
 </blockquote>
 
+<blockquote>
+  <p>准备以Banyuwangi为出发点，从East Java转换到接下来的Bali岛。<p>
+</blockquote>
 <p>
   <figure>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/balimap.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/balimap.jpg" alt="alt text" width="780px" height="480px">
   <figcaption style="font-size: 14px; color: gray;">巴厘岛旅程路线</figcaption>
   </figure>
 </p>
@@ -223,7 +226,7 @@ comments: false
 
 <p>
  <figure>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc013.jpg" alt="alt text" width="560px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc013.jpg" alt="alt text" width="580px" height="420px">
    <figcaption style="font-size: 14px; color: gray;">跃起的海豚群</figcaption>
    </figure>
 </p>
@@ -280,7 +283,10 @@ comments: false
 
 <blockquote>
   <p>
-  之后全身湿透的去逛街吃饭，找到一家挺好吃的饭店，也忘记叫什么了，不过好吃爱吃：）然后就收拾回住宿，基本结束整个旅程，准备赶第二天7:00am的飞机回北京继续搬砖🧱。
+  之后全身湿透的去逛街吃饭，找到一家挺好吃的饭店，也忘记叫什么了，不过好吃爱吃：）
+  </p>
+  <p>
+  散散步然后收拾回住宿，基本结束整个旅程，准备赶第二天7:00am的飞机回北京继续搬砖🧱。
   </p>
 </blockquote>
 
