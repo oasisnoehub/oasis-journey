@@ -58,26 +58,17 @@ mainobj.$control=$('<div id="topcontrol">'+mainobj.controlHTML+'</div>')
 .appendTo('body')
 
 if (document.all && !window.XMLHttpRequest && mainobj.$control.text()!='') //loose check for IE6 and below, plus whether control contains any text
-mainobj.$control.css({width:mainobj.$control.width()}) //IE6- seems to require an explicit width on a DIV containing text
-mainobj.togglecontrol()
+    mainobj.$control.css({width:mainobj.$control.width()}) //IE6- seems to require an explicit width on a DIV containing text
+    mainobj.togglecontrol()
 
-$('a[href="' + mainobj.anchorkeyword +'"]').click(function(){
-mainobj.scrollup()
-
-return false
+    $('a[href="' + mainobj.anchorkeyword +'"]').click(
+        function(){
+            mainobj.scrollup()
+            return false
+        })
+    $(window).bind('scroll resize', function(e){mainobj.togglecontrol()})
 })
-
-$(window).bind('scroll resize', function(e){
-
-mainobj.togglecontrol()
-
-})
-
-})
-
 }
-
 }
-
 scrolltotop.init()
 </script>
