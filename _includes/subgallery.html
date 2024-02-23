@@ -1,3 +1,5 @@
+<!-- Subgallery -->
+
 {% if include.id %}
   {% assign gallery = page.[include.id] %}
 {% else %}
@@ -6,23 +8,18 @@
 
 <div class="gallery masonry-gallery">
   {% for img in gallery %}
-
-  <figure class="gallery-item">
-
-	<header class='gallery-icon'>
-
-<a href="{{ site.url }}{{ site.baseurl }}{{ img.image_path }}" class="popup"  title="{{ img.image-caption }}" data-caption="{{ img.image-copyright }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ img.image_path }}"></a>
-						
-	</header>	
+   <figure class="gallery-item">
+		<header class='gallery-icon'>
+			<a href="{{ site.url }}{{ site.baseurl }}{{ img.image_path }}" class="popup"  title="{{ img.image-caption }}" data-caption="{{ img.image-copyright }}">
+			<img src="{{ site.url }}{{ site.baseurl }}{{ img.image_path }}"></a>			
+		</header>	
 		
-   <figcaption class='gallery-caption'>
-		<div class="entry-summary" id="{{ img.image-caption }}">
-				<h3>{{img.image-caption}}</h3>
-					<p>{{img.image-copyright}}</p>
-						</div>
-					</figcaption>
-				</figure>
-
+		<figcaption class='gallery-caption'>
+				<div class="entry-summary" id="{{ img.image-caption }}">
+						<h3>{{img.image-caption}}</h3>
+						<p>{{img.image-copyright}}</p>
+				</div>
+		</figcaption>
+   </figure>
   {% endfor %}
 </div>
