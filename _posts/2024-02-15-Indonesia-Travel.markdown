@@ -306,4 +306,18 @@ comments: false
 
 </div>
 
-<p style="font-size: 14px;">Placeholder text by <a> <strong>YIN YILING</strong></a>. Photography by <a><strong>YIN YILING</strong></a>.</p>
+<!-- EXTRA INFO -->
+<div style="font-size: 14px;">
+<p>
+Placeholder text by <a> <strong>YIN YILING</strong></a>.
+Photography by <a><strong>YIN YILING</strong></a>.
+</p>
+
+<p>
+If you enjoy my stories, please subscribe to my travel blog by entering your email below and clicking the subscribe button.
+</p>
+<p>
+如果您喜欢我的故事，请在下方输入您的电子邮件并点击订阅按钮，订阅我的旅游博客 ⬇️
+</p>
+</div>
+
