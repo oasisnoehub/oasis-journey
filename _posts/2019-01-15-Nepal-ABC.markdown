@@ -134,7 +134,7 @@ comments: false
 
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc009.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">Annapurna安纳普尔那保护区指示牌</figcaption>
   </figure>
 </p>
@@ -144,13 +144,13 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc0010.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">老人风景画</figcaption>
   </figure>
 </p>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc011.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">吃我鞋子的小狗</figcaption>
   </figure>
 </p>
@@ -160,7 +160,7 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc012.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">救援直升机</figcaption>
   </figure>
 </p>
@@ -169,7 +169,7 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc013.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">View Top Hotel</figcaption>
   </figure>
 </p>
@@ -178,13 +178,13 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc014.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">Annapurna安纳普尔纳峰</figcaption>
   </figure>
 </p>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc015.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">Machapuchare鱼尾峰</figcaption>
   </figure>
 </p>
@@ -194,26 +194,27 @@ comments: false
 
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc016.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">吊桥</figcaption>
   </figure>
 </p>
 
 <blockquote>
-<p>路上偶遇到嘻哈小哥，好喜欢他的笑容，于是抓拍了下来。
+<p>路上偶遇到嘻哈小哥，好喜欢他的笑容，于是抓拍了下来。</p>
+</blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc017.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">嘻哈小哥</figcaption>
   </figure>
 </p>
-</blockquote>
+
 <blockquote>
 <p>沿途问了很多家滑翔伞店，终于找到愿意给我们最低价的一家，包含接送+录像拍照+滑翔，于是预定好明天早上在这里集合坐车去滑翔地点。</p>
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc018.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">滑翔伞店</figcaption>
   </figure>
 </p>
@@ -225,7 +226,7 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc019.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">尼泊尔婚礼</figcaption>
   </figure>
 </p>
@@ -234,7 +235,7 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc020.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">陌生奶奶的全家福</figcaption>
   </figure>
 </p>
@@ -243,7 +244,7 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc021.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">清晨博卡拉</figcaption>
   </figure>
 </p>
@@ -252,7 +253,7 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc022.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">雪山山脉</figcaption>
   </figure>
 </p>
@@ -261,7 +262,7 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc023.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">滑翔伞教练</figcaption>
   </figure>
 </p>
@@ -270,13 +271,13 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
-  <figcaption style="font-size: 14px; color: gray;">“我”</figcaption>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc024.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">“1米3的我”</figcaption>
   </figure>
 </p>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc025.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">滑翔伞</figcaption>
   </figure>
 </p>
@@ -285,7 +286,7 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc026.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">认真练习的滑翔伞学徒</figcaption>
   </figure>
 </p>
@@ -297,19 +298,19 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc027.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">费瓦湖骑行</figcaption>
   </figure>
 </p>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc028.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">打招呼的尼泊尔女孩</figcaption>
   </figure>
 </p>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc029.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">体能训练的尼泊尔男孩</figcaption>
   </figure>
 </p>
@@ -318,7 +319,7 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc030.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">博卡拉大巴站</figcaption>
   </figure>
 </p>
