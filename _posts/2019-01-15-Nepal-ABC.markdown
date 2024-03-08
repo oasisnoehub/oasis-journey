@@ -14,6 +14,7 @@ comments: false
 <div>
 <h1> Introduction 介绍</h1>
 <h2>Annapurna (mountain range) 安纳普尔那山脉</h2>
+<blockquote>
 <p>Annapurna is a massif in the Himalayas in north-central Nepal that includes one peak over 8,000 metres (26,247 ft), thirteen peaks over 7,000 metres (22,966 ft), and sixteen more over 6,000 metres (19,685 ft).[3] The massif is 55 kilometres (34 mi) long, and is bounded by the Kali Gandaki Gorge on the west, the Marshyangdi River on the north and east, and by the Pokhara Valley on the south. At its western end, the massif encloses a high basin called the Annapurna Sanctuary. The highest peak of the massif, Annapurna I Main, is the 10th highest mountain in the world at 8,091 metres (26,545 ft) above sea level. [Cite:Wikipedia]</p>
 <p>安纳普尔纳是尼泊尔北部中部喜马拉雅山脉的一座山脉，包括一个海拔超过8,000米（26,247英尺）的山峰，十三座海拔超过7,000米（22,966英尺）的山峰，以及另外十六座海拔超过6,000米（19,685英尺）的山峰。该山脉长55公里（34英里），西部被卡利甘达基峡谷环绕，北部和东部被马河环绕，南部被博卡拉山谷环绕。在其西端，山脉封闭了一个高山盆地，称为安纳普尔纳圣域。山脉的最高峰安纳普尔纳一号峰，海拔8,091米（26,545英尺），是世界第十高的山.</p>
 <p>Maurice Herzog led a French expedition to its summit through the north face in 1950, making it the first eight-thousander to be successfully climbed.[Cite:Wikipedia]</p>
@@ -25,6 +26,7 @@ comments: false
 <p>The Annapurna peaks have been among the world's most treacherous mountains to climb with the particular case of the extremely steep south face of Annapurna I Main – a wall of rock that rises 3,000 metres (9,800 feet) – making it one of the most difficult climbs in the world.[6] By January 2022, there had been 365 summit ascents of Annapurna I Main, and 72 climbing fatalities for a fatality rate of just under 20 percent.[Cite:Wikipedia]</p>
 <p>安纳普尔纳峰一直是世界上最危险的登山之一，尤其是安纳普尔纳一号峰的极陡南壁——一道高耸的岩壁，高3,000米（9,800英尺）——使其成为世界上最困难的攀登之一。截至2022年1月，已有365次登顶安纳普尔纳一号峰，72人死于攀登，死亡率略低于20%。</p>
 </div>
+</blockquote>
 <br>
 <div class="crossnote markdown-preview  ">
 <h1>Incomplete Travel Journal 不完全旅行日志</h1>
@@ -80,34 +82,14 @@ comments: false
 <p>办好登山证和电话卡就和叔叔阿姨彼此告别，就准备去预定的住宿Blue Mountain Homestay。</p>
 </blockquote>
 
-<p>
-<figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc005.jpg" alt="alt text" width="480px" height="280px">
-  <figcaption style="font-size: 14px; color: gray;">Blue Mountain Homestay</figcaption>
-  </figure>
-</p>
 
 <blockquote>
 <p>Homestay天台的风景还蛮不错的。Homestay的小哥还给我做了一杯咖啡。旅行过程不知道喝了多少杯当地的咖啡和煮奶茶：）</p>
 </blockquote>
 
-<p>
-<figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc006.jpg" alt="alt text" width="480px" height="280px">
-  <figcaption style="font-size: 14px; color: gray;">天台奶茶</figcaption>
-  </figure>
-</p>
-
 <blockquote>
 <p>休整了一下，就联系小哥问他有没有到博卡拉的大巴，准备第二天一大早做大巴到博卡拉。我记得凌晨5点吧，就坐在大巴上等着准备出发。认识了邻座的尼泊尔女孩，和她聊了很多，我们也互相关注了Ins。她和她朋友也是准备到博卡拉徒步。她告诉我说她学的记者专业，未来计划是毕业之后到澳洲发展，我问你喜欢你的专业吗？她用非常肯定的语气说是的，我其实很诧异为什么她这么肯定且毫无保留的表达出自己喜欢的东西。3年后，我在Ins上看到，她确实去澳洲了，而我告诉的她的我的计划现在却没有实现。大巴的氛围很好，乘车的本地年轻人放起了当地的流行歌，还跟着唱了起来。虽然我一句也听不懂，问了邻座女孩，她告诉我唱的大概就是关于love kind of stuff。中途休息的时候还认识了来自澳大利亚的逆天长腿帅哥和他的当地导游。</p>
 </blockquote>
-
-<p>
-<figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc007.jpg" alt="alt text" width="480px" height="320px">
-  <figcaption style="font-size: 14px; color: gray;">澳洲长腿哥和他的导游</figcaption>
-  </figure>
-</p>
 
 <blockquote>
 <p>6:00 pm 终于到博卡拉，没有提前订住宿，所以下车之后还得找住的地方，谁能想遇到了好心的小龙哥，和我同一个车，说他刚好有个房间有两张床，可以去他那里暂住一天。于是遇到了很多去徒步的中国朋友们。</p>
