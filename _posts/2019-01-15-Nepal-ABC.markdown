@@ -25,8 +25,9 @@ comments: false
 <p>整个山脉及其周围地区都受到7,629平方公里（2,946平方英里）的安纳普尔纳保护区保护，这是尼泊尔第一个也是最大的保护区。安纳普尔纳保护区是世界上几条一流的徒步旅行线路的家园，包括安纳普尔纳圣域和安纳普尔纳环线。</p>
 <p>The Annapurna peaks have been among the world's most treacherous mountains to climb with the particular case of the extremely steep south face of Annapurna I Main – a wall of rock that rises 3,000 metres (9,800 feet) – making it one of the most difficult climbs in the world.[6] By January 2022, there had been 365 summit ascents of Annapurna I Main, and 72 climbing fatalities for a fatality rate of just under 20 percent.[Cite:Wikipedia]</p>
 <p>安纳普尔纳峰一直是世界上最危险的登山之一，尤其是安纳普尔纳一号峰的极陡南壁——一道高耸的岩壁，高3,000米（9,800英尺）——使其成为世界上最困难的攀登之一。截至2022年1月，已有365次登顶安纳普尔纳一号峰，72人死于攀登，死亡率略低于20%。</p>
-</div>
 </blockquote>
+</div>
+
 <br>
 <div class="crossnote markdown-preview  ">
 <h1>Incomplete Travel Journal 不完全旅行日志</h1>
@@ -35,7 +36,7 @@ comments: false
 
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc001.jpg" alt="alt text" width="780px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc001.jpg" alt="alt text" width="780px" height="520px">
   <figcaption style="font-size: 14px; color: gray;">行程</figcaption>
   </figure>
 </p>
@@ -80,10 +81,6 @@ comments: false
 
 <blockquote>
 <p>办好登山证和电话卡就和叔叔阿姨彼此告别，就准备去预定的住宿Blue Mountain Homestay。</p>
-</blockquote>
-
-
-<blockquote>
 <p>Homestay天台的风景还蛮不错的。Homestay的小哥还给我做了一杯咖啡。旅行过程不知道喝了多少杯当地的咖啡和煮奶茶：）</p>
 </blockquote>
 
@@ -128,12 +125,6 @@ comments: false
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Nepal/pc010.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">老人风景画</figcaption>
-  </figure>
-</p>
-<p>
-<figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc011.jpg" alt="alt text" width="480px" height="320px">
-  <figcaption style="font-size: 14px; color: gray;">吃我鞋子的小狗</figcaption>
   </figure>
 </p>
 
@@ -202,8 +193,6 @@ comments: false
 </p>
 <blockquote>
 <p>和我同路的两个大哥，在一起找到住宿之后，正愁不知道去哪吃晚饭呢，同行的一个大哥不知道为什么混进了正在举行婚礼的Party，于是叫我和另一个大哥一起来，于是就这样混入了当地的婚礼派对。</p>
-</blockquote>
-<blockquote>
 <p>好喜欢这种随意的活跃的婚礼，所以后悔自己没早点学跳舞了👋。</p>
 </blockquote>
 <p>
@@ -274,8 +263,6 @@ comments: false
 </p>
 <blockquote>
 <p>虽然结束了滑翔，但是兴奋之余久久无法消尽。坐车回到费瓦湖街上，在街上随便逛逛，买了一些明信片。</p>
-</blockquote>
-<blockquote>
 <p>第二天就租了山地自行车绕着费瓦湖骑行了一圈，倒也是有点累。</p>
 </blockquote>
 <p>
