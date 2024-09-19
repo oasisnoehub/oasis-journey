@@ -21,15 +21,15 @@ comments: false
 <h1 id="incomplete-travel-guide--journal">Incomplete Travel Guide &amp; Journal </h1>
 <h2 id="itinerary-行程">Itinerary 行程 </h2>
 <div class="mermaid">
-<img src="{{ site.baseurl }}/img/journal/Indonesia/Itinerary.jpg" alt="alt text"><br>
+<br>
 </div>
 <h2 id="incomplete-travel-guide-不完全旅游攻略">Incomplete Travel Guide 不完全旅游攻略 </h2>
-<p style="color: white;">｜ 软件: 住宿（Agoda,Booking）: 交通(Grab+地铁+摩托) ｜<br>
+<p style="color: white;">｜ 软件: 住宿（Agoda): 交通: 公交+地铁) ｜<br>
 ｜ 免责声明：根据自身情况选择预定软件和住宿地址｜</p>
 <blockquote>
 <p  style="color: white;" ><strong>DAY01</strong><br>
 </blockquote>
-<blockquote>
+
 <p>TO DO </p>
 </blockquote>
 <blockquote>
@@ -37,7 +37,7 @@ comments: false
 </blockquote>
 <p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Indonesia/pc001.jpg" alt="Me during the trip" width="560px" height="680px">
+<img src="{{ site.baseurl }}/img/journal/Korea/pc001.jpg" alt="Me during the trip" width="560px" height="680px">
 <figcaption style="font-size: 14px; color: gray;">TO DO </figcaption>
 </figure></p>
 <blockquote>
@@ -70,13 +70,13 @@ comments: false
 </blockquote>
 <p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Indonesia/pc003.jpg" alt="alt text" width="560px" height="680px">
+<img src="{{ site.baseurl }}/img/journal/Korea/pc002.jpg" alt="alt text" width="560px" height="680px">
 <figcaption style="font-size: 14px; color: gray;">XX</figcaption>
 </figure>
 </p>
 <p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Indonesia/pc004.jpg" alt="alt text" width="680px" height="420px"><br>
+<img src="{{ site.baseurl }}/img/journal/Korea/pc004.jpg" alt="alt text" width="680px" height="420px"><br>
 <figcaption style="font-size: 14px; color: gray;">XX</figcaption>
 </figure>
 </p>
@@ -85,7 +85,7 @@ comments: false
 </blockquote>
 <p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Indonesia/pc005.jpg" alt="alt text" width="680px" height="420px">
+<img src="{{ site.baseurl }}/img/journal/Korea/pc005.jpg" alt="alt text" width="680px" height="420px">
 <figcaption style="font-size: 14px; color: gray;">XX</figcaption>
 </figure>
 </p>
@@ -94,7 +94,7 @@ comments: false
 </blockquote>
 <p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Indonesia/pc006.jpg" alt="alt text">
+<img src="{{ site.baseurl }}/img/journal/Korea/pc006.jpg" alt="alt text">
 <figcaption style="font-size: 14px; color: gray;">XX</figcaption>
 </figure>
 </p>
@@ -113,7 +113,7 @@ comments: false
 
 <p>
   <figure>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/balimap.jpg" alt="alt text" width="780px" height="480px">
+  <img src="{{ site.baseurl }}/img/journal/Korea/balimap.jpg" alt="alt text" width="780px" height="480px">
   <figcaption style="font-size: 14px; color: gray;">XX</figcaption>
   </figure>
 </p>
@@ -125,7 +125,7 @@ comments: false
 
 <p>
   <figure>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc007.jpg" alt="alt text" width="560px" height="680px">
+  <img src="{{ site.baseurl }}/img/journal/Korea/pc007.jpg" alt="alt text" width="560px" height="680px">
   <figcaption style="font-size: 14px; color: gray;">XX</figcaption>
   </figure>
 </p>
@@ -143,7 +143,7 @@ comments: false
 
 <p>
   <figure>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc008.jpg" alt="alt text" width="560px" height="680px">
+  <img src="{{ site.baseurl }}/img/journal/Korea/pc008.jpg" alt="alt text" width="560px" height="680px">
   <figcaption style="font-size: 14px; color: gray;">XX</figcaption>
   </figure>
 </p>
@@ -154,7 +154,7 @@ comments: false
 
 <p>
   <figure>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc009.jpg" alt="alt text" width="560px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Korea/pc009.jpg" alt="alt text" width="560px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">XX</figcaption>
   </figure>
 </p>
@@ -165,14 +165,14 @@ comments: false
 
 <p>
   <figure>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc010.jpg" alt="alt text" width="560px" height="680px">
+  <img src="{{ site.baseurl }}/img/journal/Korea/pc010.jpg" alt="alt text" width="560px" height="680px">
   <figcaption style="font-size: 14px; color: gray;">XX</figcaption>
   </figure>
 </p>
 
 <p>
   <figure>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc011.jpg" alt="alt text" width="560px" height="680px">
+  <img src="{{ site.baseurl }}/img/journal/Korea/pc011.jpg" alt="alt text" width="560px" height="680px">
   <figcaption style="font-size: 14px; color: gray;">XX</figcaption>
   </figure>
 </p>
@@ -180,14 +180,14 @@ comments: false
 
 <p>
   <figure>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc012.jpg" alt="alt text" width="580px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Korea/pc012.jpg" alt="alt text" width="580px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">XX</figcaption>
   </figure>
 </p>
 
 <p>
  <figure>
-  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc013.jpg" alt="alt text" width="580px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Korea/pc013.jpg" alt="alt text" width="580px" height="420px">
    <figcaption style="font-size: 14px; color: gray;">XX</figcaption>
    </figure>
 </p>
