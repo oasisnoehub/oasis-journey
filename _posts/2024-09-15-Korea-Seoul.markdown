@@ -127,6 +127,13 @@ comments: false
 </figure>
 </p>
 
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Korea/pc013.jpg" alt="Seoul Cube Hotel" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">BR 冰淇淋(10mini)</figcaption>
+</figure>
+</p>
+
 <blockquote>
   <p style="color: white;" ><strong>STORY END.</strong><br>
   “我旅行是因为喜欢到处走动，我享受旅行给我的自由感觉，我很高兴摆脱羁绊，责任和义务我喜爱未知事物，我结识一些奇人，他们给我片刻欢愉，我时常腻烦我自己，以为借助旅行可以丰富个性，让我略有改观，我旅行一趟，回来的时候不会依然故我”<br>
