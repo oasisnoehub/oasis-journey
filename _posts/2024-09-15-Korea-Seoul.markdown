@@ -11,12 +11,6 @@ tags: [Travel,Life]
 categories: [Korea]
 comments: false
 ---
-<h1>Introduction 介绍</h1>
-<blockquote>
-<p>
-  TO DO :
-</p>
-<br>
 <div class="crossnote markdown-preview  ">
 <h1 id="incomplete-travel-guide--journal">Incomplete Travel Guide &amp; Journal </h1>
 <h2 id="itinerary-行程">Itinerary 行程 </h2>
@@ -41,19 +35,26 @@ comments: false
 
 <p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Korea/pc001.jpg" alt="Airpot Train Timetable" width="560px" height="680px">
+<img src="{{ site.baseurl }}/img/journal/Korea/pc000.jpg" alt="Airpot Train Timetable" width="560px" height="680px">
 <figcaption style="font-size: 14px; color: gray;">仁川机场快铁时间表</figcaption>
 </figure>
 </p>
 
 <blockquote>
-<p>从仁川机场落地之后，根据到的时间可以选择合适的交通方式到首尔站，如果到的比较晚可以选择夜间巴士，可以到巴士站购票，可以坐地铁，但是早上5.20才开始运营。机场快铁和普通的到首尔也是5.10分左右才开始运营，两种的区别就是，快铁直接到首尔站，普通的每站都会停，然后价格就是相差5倍吧，时间也就差个10几分钟。看自己需求选择坐哪个吧。</p>
+<p>从仁川机场落地之后，根据到的时间可以选择合适的交通方式到首尔站，如果到的比较晚可以选择夜间巴士，可以到巴士站购票，可以坐地铁，但是早上5.20才开始运营。机场快铁和普通的到首尔也是5.10分左右才开始运营，两种的区别就是，快铁直接到首尔站，普通的每站都会停，然后价格就是大概相差2倍吧，时间也就差个10几分钟。看自己需求选择坐哪个吧。</p>
 </blockquote>
 
 <p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Korea/pc006.jpg" alt="Seoul Station" width="560px" height="680px">
+<img src="{{ site.baseurl }}/img/journal/Korea/pc001.jpg" alt="Seoul Station" width="560px" height="680px">
 <figcaption style="font-size: 14px; color: gray;">首尔站</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Korea/pc010.jpg" alt="Seoul Station" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">首尔站外</figcaption>
 </figure>
 </p>
 
@@ -70,14 +71,14 @@ comments: false
 
 <p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Korea/pc007.jpg" alt="Gyeongbokgung Palace" width="560px" height="680px">
+<img src="{{ site.baseurl }}/img/journal/Korea/pc003.jpg" alt="Gyeongbokgung Palace" width="560px" height="680px">
 <figcaption style="font-size: 14px; color: gray;">神武门</figcaption>
 </figure>
 </p>
 
 <p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Korea/pc003.jpg" alt="Bukchon Hanok Village" width="560px" height="680px">
+<img src="{{ site.baseurl }}/img/journal/Korea/pc004.jpg" alt="Bukchon Hanok Village" width="560px" height="680px">
 <figcaption style="font-size: 14px; color: gray;">北村韩屋村</figcaption>
 </figure>
 </p>
@@ -93,12 +94,38 @@ comments: false
 
 <p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Korea/pc004.jpg" alt="Seoul Cube Hotel" width="560px" height="680px">
+<img src="{{ site.baseurl }}/img/journal/Korea/pc006.jpg" alt="Seoul Cube Hotel" width="560px" height="680px">
 <figcaption style="font-size: 14px; color: gray;">Seoul Cube Hotel</figcaption>
 </figure>
 </p>
 
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Korea/pc007.jpg" alt="Seoul Cube Hotel" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">梨花女子大学</figcaption>
+</figure>
+</p>
 
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Korea/pc011.jpg" alt="Seoul Cube Hotel" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">星空图书馆门口</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Korea/pc008.jpg" alt="Seoul Cube Hotel" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">星空图书馆</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Korea/pc012.jpg" alt="Seoul Cube Hotel" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">BR 冰淇淋</figcaption>
+</figure>
+</p>
 
 <blockquote>
   <p style="color: white;" ><strong>STORY END.</strong><br>
