@@ -50,9 +50,6 @@ comments: false
 </p>
 
 
-
-
-
 <p>
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Korea/pc010.jpg" alt="Seoul Station" width="560px" height="680px">
@@ -60,8 +57,7 @@ comments: false
 </figure>
 </p>
 
-<p>路线真的每天都是暴走，从景福宫走，对了中秋景福宫免费开放，人很少，因为中秋算是韩国比较大的节日了。</p>
-
+<p>路线真的每天都是暴走，今天就是从景福宫（Gyeongbokgung Palace 경복궁）开始走，对了中秋景福宫免费开放，人很少（因为中秋算是韩国比较大的节日了，都回家团聚了，可能时间也有点早），就只有零零散散的几个外国人在参观。</p>
 <p>
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Korea/pc002.jpg" alt="Gyeongbokgung Palace" width="560px" height="680px">
@@ -69,13 +65,14 @@ comments: false
 </figure>
 </p>
 
-<p>
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Korea/pc003.jpg" alt="Gyeongbokgung Palace" width="560px" height="680px">
 <figcaption style="font-size: 14px; color: gray;">神武门</figcaption>
 </figure>
 </p>
 
+<p>然后，沿着逛到北村韩屋村（Bukchon Hanok Village 북촌한옥마을），也没有什么人，店铺也基本没怎么开，可能时间比较早，倒是看到很多晨跑的人，难怪能在韩国看到很多双开门男生是真的😂，真的韩男很注重健身呢。</p>
+<p>
 <p>
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Korea/pc004.jpg" alt="Bukchon Hanok Village" width="560px" height="680px">
@@ -83,7 +80,8 @@ comments: false
 </figure>
 </p>
 
-
+<p>接着沿着google map导航到明洞街，意外发现广藏市场在沿路上，于是也去逛了逛看看。吃了甜辣鸡爪加鸡皮，还有年糕，真的这味道真的不适合我的胃，真的硬着头皮吃了下去，毕竟15000won的东西。后面真的受不了了，放弃😓。火速开启前往下一站明洞街。</p>
+<p>
 <p>
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Korea/pc005.jpg" alt="Bukchon Hanok Village" width="560px" height="680px">
