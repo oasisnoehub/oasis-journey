@@ -88,8 +88,11 @@ comments: false
 <figcaption style="font-size: 14px; color: gray;">明洞</figcaption>
 </figure>
 </p>
+<p>明洞街怎么说，就是商业一条街，出来逛吃逛喝，买东西也没有什么特别的东西，去emis、addidas、mlb之类的逛了逛，本来因为orm很想买emis的帽子，但是看了看质量真的还不如某多，相比之下mlb的帽子质感就好很多了，但是还是没有选择买，去买了addidas的定制长袖，这个算是买的让自己比较心仪的东西了，还给🐽妹买了一件作为礼物。</p>
 
+<p>然后转场到汉南洞了，汉南洞的店确实装饰的蛮精致的，ins风满满。Mardi Mercredi和Emis在这边也有，去逛了逛，冲动消费了一件Mardi Mercredi的T恤，然后随意逛逛，太阳太大了🌞，真的逛到中暑🥵。后面走不动了就去Seoul Cube 青旅办入住了。</p>
 
+<p>前台给拍了入住的一些信息和密码之类的东西，然后就收拾行李。和我一起办理的入住的白人女孩真的又高又好看，不知道是不是模特，是真的好高，在她面前突然觉得自己像个小孩，真的很强的压迫感。搞笑的是她收拾行李的时候，把手机落在房间里面，然后刚想进去，结果门锁了。她脸上的表情让我觉得又可爱又好笑，然后她问我有没有密码，当然有哈哈哈哈。说真的以后一个人出去玩，住宿只定青旅，体验感真的比酒店好很多。因为青旅中会遇到一些相似的人，会在遇到时候微笑点头，say hello, good morning 的默契。后面两天住的酒店确实让我感觉，我可能还是更适合住青旅，因为我喜欢在旅途中与别人交流，不管是简单的hi，还是一些deep conversation。</p>
 <p>
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Korea/pc006.jpg" alt="Seoul Cube Hotel" width="560px" height="680px">
