@@ -92,7 +92,8 @@ comments: false
 
 <p>然后转场到汉南洞了，汉南洞的店确实装饰的蛮精致的，ins风满满。Mardi Mercredi和Emis在这边也有，去逛了逛，冲动消费了一件Mardi Mercredi的T恤，然后随意逛逛，太阳太大了🌞，真的逛到中暑🥵。后面走不动了就去Seoul Cube 青旅办入住了。</p>
 
-<p>前台给拍了入住的一些信息和密码之类的东西，然后就收拾行李。和我一起办理的入住的白人女孩真的又高又好看，不知道是不是模特，是真的好高，在她面前突然觉得自己像个小孩，真的很强的压迫感。搞笑的是她收拾行李的时候，把手机落在房间里面，然后刚想进去，结果门锁了。她脸上的表情让我觉得又可爱又好笑，然后她问我有没有密码，当然有哈哈哈哈。说真的以后一个人出去玩，住宿只定青旅，体验感真的比酒店好很多。因为青旅中会遇到一些相似的人，会在遇到时候微笑点头，say hello, good morning 的默契。后面两天住的酒店确实让我感觉，我可能还是更适合住青旅，因为我喜欢在旅途中与别人交流，不管是简单的hi，还是一些deep conversation。</p>
+<p>前台给拍了入住的一些信息和密码之类的东西，然后就收拾行李。和我一起办理的入住的白人女孩真的又高又好看，不知道是不是模特，是真的好高，在她面前突然觉得自己像个小孩，真的很强的压迫感。搞笑的是她收拾行李的时候，把手机落在房间里面，然后刚想进去，结果门锁了。她脸上的表情让我觉得又可爱又好笑，然后她问我有没有密码，当然有哈哈哈哈。说真的以后一个人出去玩，住宿只定青旅，体验感真的比酒店好很多。因为青旅中会遇到一些相似的人，会在遇到时候微笑点头，say hello, good morning 的默契。后面两天住的酒店确实让我感觉，我可能还是更适合住青旅，因为我喜欢在旅途中与别人交流，不管是简单的打招呼hi，还是一些更深层次的deep conversation。Seoul Cube这家青旅体验感不错呢，设备齐全，梨泰院附近，周围有很多酒吧，餐厅，便利店以及各种店铺，住的欧美人也比较多，比较推荐！</p>
+
 <p>
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Korea/pc006.jpg" alt="Seoul Cube Hotel" width="560px" height="680px">
@@ -100,16 +101,13 @@ comments: false
 </figure>
 </p>
 
-<p>
-<figure>
-<img src="{{ site.baseurl }}/img/journal/Korea/pc007.jpg" alt="Seoul Cube Hotel" width="560px" height="680px">
-<figcaption style="font-size: 14px; color: gray;">梨花女子大学</figcaption>
-</figure>
-</p>
+<p>因为早上暴走，感觉是中暑了，所以晚上头剧痛，google map搜索了药店结果不是关门就是很远，然后顶着头痛找药，结果发现便利店就会卖一些基础的救急药，比如G25,7even之类的便利店。所以如果自己身体有什么不舒服，可以在便利店卖一些救急的药缓缓。吃了之后确实好很多，结果第二天也开始了暴走的一天</p>
+
+<p>第二天去的星空图书馆Starfield，吃了BR冰淇淋🍦，orm你是真爱了。</p>
 
 <p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Korea/pc011.jpg" alt="Seoul Cube Hotel" width="560px" height="680px">
+<img src="{{ site.baseurl }}/img/journal/Korea/pc011.jpg" alt="Starfield" width="560px" height="680px">
 <figcaption style="font-size: 14px; color: gray;">星空图书馆门口</figcaption>
 </figure>
 </p>
@@ -120,6 +118,8 @@ comments: false
 <figcaption style="font-size: 14px; color: gray;">星空图书馆</figcaption>
 </figure>
 </p>
+
+<p>第二天去的星空图书馆Starfield，吃了BR Baskin Robbins 冰淇淋🍦(每天吃一个！一口气吃了两！真的超级绝！)，orm你是真爱了。</p>
 
 <p>
 <figure>
@@ -134,6 +134,16 @@ comments: false
 <figcaption style="font-size: 14px; color: gray;">BR 冰淇淋(10mini)</figcaption>
 </figure>
 </p>
+
+<p>第三天就转站到弘大那边了，逛了逛梨花女子大学，吃了bhc炸鸡。</p>
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Korea/pc007.jpg" alt="Ewha Womans University" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">梨花女子大学</figcaption>
+</figure>
+</p>
+
+<p>说实话，韩国真的除了追星没什么值得来的地方了，喜欢买买买逛街的也可以，但是感觉也大差不差。果然还是喜欢一些比较有特点的自然风景。收拾了东西18号一大早就坐飞机回北京了，然后，19号得去乌鲁木齐出差。感觉韩国首尔的自由行也就这样了，也没什么特别的感觉。可能最开始的初衷是因为orm来韩国，想走走她喜欢的城市吃她想要吃的东西，同时呢，也想打破自己之前一直维持的封闭状态，后面突然觉得自己很insane，后面又觉得自己可以做到很多事情，发现自己一直停滞了很长一段时间，发现一年时间可以实现很多事情，达到以前自己意想不到的结果。以前做什么事情的时候，总想以结果意义为导向，如果这件事情觉得没有意义，就已经放弃了想要做这件事的想法。anyway, do what you will and then you will find you path.</p>
 
 <blockquote>
   <p style="color: white;" ><strong>STORY END.</strong><br>
