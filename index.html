@@ -20,6 +20,12 @@ images:
       <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" type="text/css" media="screen" />
       <link rel="stylesheet" href="{{ site.baseurl }}/css/galleries.css" media="screen" />
       <link rel="stylesheet" href="{{ site.baseurl }}/css/WYSIWYG.css" media="screen" />
+      <style>
+      .iframe-transparent {
+          background-color: transparent; /* 设置背景色为透明 */
+          border: none; /* 移除边框 */
+      }
+      </style>
 	<!-- Modernizr -->
   <script src="{{ site.baseurl }}/js/modernizr.js"></script>
 </head>
@@ -41,9 +47,10 @@ images:
             <div>  
               <!-- cloud music -->
               <!-- auto=1 可以控制自动播放与否，当值为 1 即打开网页就自动播放，值为 0 时需要访客手动点击播放 -->
-              <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86  background-color="transparent"
-              src="//music.163.com/outchain/player?type=2&id=1376880209&auto=1&height=66">  
-            </iframe>
+              <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" 
+              src="//music.163.com/outchain/player?type=2&id=1376880209&auto=1&height=66" 
+              class="iframe-transparent">
+              </iframe>
             </div>
         </div>
           
