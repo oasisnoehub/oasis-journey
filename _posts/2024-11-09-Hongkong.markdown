@@ -15,26 +15,80 @@ comments: false
 <h1 id="incomplete-travel-guide--journal">Incomplete Travel Guide &amp; Journal </h1>
 <h2 id="itinerary-行程">Itinerary 行程 </h2>
 <h2 id="incomplete-travel-guide-不完全旅游攻略">Incomplete Travel Guide 不完全旅游攻略 </h2>
-<p style="color: white;">｜ 软件: 借宿: 交通: 飞机+公交+地铁｜<br>
-｜ 免责声明：根据自身情况选择预定软件和住宿地址｜</p>
+<p style="color: white;">
+ | 航司:国泰航空 Cathay Pacific (真的巨推荐！) <br>
+ | 借宿: 朋友家借宿 <br>
+ | 交通: 飞机+公交+地铁 <br>
+ | 免责声明：根据自身情况选择预定软件和住宿地址</p>
 
 <p  style="color: white;" ><strong>2024-11-08 DAY01</strong><br>
 <strong>Airport : Beijing Capital International Airport 北京首都国际机场</strong><br>
 <strong>Accomdation : A friend of mine</strong><br>
 <strong>Visa: 港澳通行证 （大陆居民）</strong><br>
 <strong>To Hongkong: Airport Train (Express) </strong><br>
-<strong>注意：订购选择证件的时候，可以选择护照还是港澳通行证（登机的时候，仅需要携带根据值机填写的证件类型即可）</strong><br>
+<strong>
+注意：订购选择证件的时候，可以选择护照还是港澳通行证（登机的时候，仅需要携带根据值机填写的证件类型即可）
+</strong><br>
 
 
-<p>在香港机场落地了</p>
-
-
+<p>在VFS Global Beijing 中心递交完UK Visa申请，按完生物指纹之后，就打车匆匆赶去首都机场了。不过到的时候感觉时间挺充盈，因为就背了一个背包，过关的时候挺流畅的。</p>
 <p>
+
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Korea/pc000.jpg" alt="Airpot Train Timetable" width="560px" height="680px">
-<figcaption style="font-size: 14px; color: gray;">仁川机场快铁时间表</figcaption>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc001.jpg" alt="Airpot Boarding Time" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">首都机场候机厅登机电子公告牌</figcaption>
 </figure>
 </p>
+
+<p>等着无聊就在候机厅座位上看书，最近在看的一本叫《Die With Zero》。可能这本书，给了我这次周末出行的动力吧。不想称之为冲动，更想把它称为创造回忆。</p>
+
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc000.jpg" alt="Airpot Lounge" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">候机厅</figcaption>
+</figure>
+</p>
+
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc002.jpg" alt="《Die With Zero》" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">《Die With Zero》</figcaption>
+</figure>
+</p>
+
+<p>大概晚上10左右到机场之后，直接乘坐机场快线到 香港站 （香港机场到市区里面只有机场快线，没有普通的地铁），直接冲上去就行，然后出站的时候再买票🎫就可以了，不得不说是真的快，也挺舒适的。到香港站之后，在中环站（就在到达的香港站里面换乘）换乘 港澳线 到香港大学。</p>
+
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc003.jpg" alt="Hongkong Central" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">Hongkong Central</figcaption>
+</figure>
+</p>
+
+<p>到港大站之后从b2出口就到朋友家楼下了，真的香港居住密度的压力铺面而来，独具一番港味😂</p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc004.jpg" alt="Hongkong Street" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">Hongkong Street</figcaption>
+</figure>
+</p>
+
+<p>到朋友家把背包放下就散歩去坚尼地城逛逛，好喜欢这样的氛围，好多年轻人在海边喝酒玩游戏，聊天轮滑。真的挺喜欢和朋友散散步聊聊天，舒缓长期以来麻木的内心，感受一下生活的美好。虽然自己早已没有什么文艺的内心，更加的向内寻求，但是交流在向内寻求的路途中也是一些调味剂和矫正器。</p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc005.jpg" alt="Kennedy Town Hong Kong" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">Kennedy Town Hong Kong</figcaption>
+</figure>
+</p>
+
+<p>逛了逛之后回朋友家休息了。香港果然寸土寸金，虽然房间很小，但是租金价格真的高的离谱，东西的价格也是相较于大陆来说高。为什么大家还想来香港呢？确实引人思考。</p>
+<p>第二天周六，朋友还有课。于是假装港大人的一天就开始了。觉得挺有意思的，能逃离现在的身份，作为另一种身份生活的机会，确实让我很兴奋。在无法改变现在的生活状态的时候，考虑慢慢尝试自己想要的生活。坐在朋友旁听了朋友上的全英授课。大概讲的就是计算机处理器编译操作、动态规划之类的东西。</p>
+
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc006.jpg" alt="Course in Hong Kong University" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">上课</figcaption>
+</figure>
+</p>
+
+
+
+
+
 
 
 
