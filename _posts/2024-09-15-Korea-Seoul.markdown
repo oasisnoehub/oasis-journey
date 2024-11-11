@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Seoul, Korea"
+title:      "Seoul, Korea 首尔，韩国"
 subtitle:   "Solo Travel"
 active: journal
 image:

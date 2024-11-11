@@ -1,0 +1,65 @@
+---
+layout:     post
+title:      "Hongkong 香港"
+subtitle:   "Solo Travel"
+active: journal
+image:
+  feature: ""
+date:       2024-11-09
+header-img: "img/postcover/pc012.jpg"
+tags: [Travel,Life]
+categories: [Hongkong]
+comments: false
+---
+<div class="crossnote markdown-preview  ">
+<h1 id="incomplete-travel-guide--journal">Incomplete Travel Guide &amp; Journal </h1>
+<h2 id="itinerary-行程">Itinerary 行程 </h2>
+<h2 id="incomplete-travel-guide-不完全旅游攻略">Incomplete Travel Guide 不完全旅游攻略 </h2>
+<p style="color: white;">｜ 软件: 借宿: 交通: 飞机+公交+地铁｜<br>
+｜ 免责声明：根据自身情况选择预定软件和住宿地址｜</p>
+
+<p  style="color: white;" ><strong>2024-11-08 DAY01</strong><br>
+<strong>Airport : Beijing Capital International Airport 北京首都国际机场</strong><br>
+<strong>Accomdation : A friend of mine</strong><br>
+<strong>Visa: 港澳通行证 （大陆居民）</strong><br>
+<strong>To Hongkong: Airport Train (Express) </strong><br>
+<strong>注意：订购选择证件的时候，可以选择护照还是港澳通行证（登机的时候，仅需要携带根据值机填写的证件类型即可）</strong><br>
+
+
+<p>在香港机场落地了</p>
+
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Korea/pc000.jpg" alt="Airpot Train Timetable" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">仁川机场快铁时间表</figcaption>
+</figure>
+</p>
+
+
+
+<p>Anyway, do what you will and then you will find your path.</p>
+
+<blockquote>
+  <p style="color: white;" ><strong>STORY END.</strong><br>
+  “我旅行是因为喜欢到处走动，我享受旅行给我的自由感觉，我很高兴摆脱羁绊，责任和义务我喜爱未知事物，我结识一些奇人，他们给我片刻欢愉，我时常腻烦我自己，以为借助旅行可以丰富个性，让我略有改观，我旅行一趟，回来的时候不会依然故我”<br>
+  -- 毛姆</p>
+</blockquote>
+
+</div>
+
+<!-- EXTRA INFO -->
+<div style="font-size: 14px;">
+<p>
+Placeholder text by <a> <strong>YILING YIN</strong></a>.
+Photography by <a><strong>YILING YIN</strong></a>.
+</p>
+
+<p>
+If you enjoy my stories, please subscribe to my travel blog by entering your email below and clicking the subscribe button.
+</p>
+<p>
+如果您喜欢我的故事，请在下方输入您的电子邮件并点击订阅按钮，订阅我的旅行博客 ⬇️
+</p>
+</div>
+
