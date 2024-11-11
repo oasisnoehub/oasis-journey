@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Active Volcano"
+title:      "Active Volcano 活火山🌋"
 subtitle:   "Mount Bromo & Semeru"
 active: journal
 image:

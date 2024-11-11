@@ -1,5 +1,5 @@
 {
-  "name": "photorama",
+  "name": "oasisnoe",
   "version": "1.0.0",
   "description": "Theme by [Start Bootstrap](http://startbootstrap.com/).",
   "main": "Gruntfile.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sunbliss/photorama.git"
+    "url": "git+https://github.com/sunbliss/photorama.git"
   },
   "author": "Anna Prigkipaki",
   "license": "Apache-2.0",
@@ -18,5 +18,6 @@
   "homepage": "http://sunbliss.github.io",
   "dependencies": {
     "searchkit": "^0.7.0"
-  }
+  },
+  "devDependencies": {}
 }
