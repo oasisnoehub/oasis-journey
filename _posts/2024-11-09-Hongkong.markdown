@@ -113,6 +113,16 @@ comments: false
 <figcaption style="font-size: 14px; color: gray;">Victoria Peak (The Peak)</figcaption>
 </figure>
 
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc013.jpg" alt="Me at Victoria Peak (The Peak)" width="420px" height="560px">
+<figcaption style="font-size: 14px; color: gray;">Me at Victoria Peak (The Peak)</figcaption>
+</figure>
+
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc014.jpg" alt="Hongkong Night" width="420px" height="560px">
+<figcaption style="font-size: 14px; color: gray;">Hongkong Night</figcaption>
+</figure>
+
 
 
 <p>Anyway, do what you will and then you will find your path.</p>
