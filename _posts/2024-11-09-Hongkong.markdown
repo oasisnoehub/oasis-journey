@@ -83,12 +83,35 @@ comments: false
 <img src="{{ site.baseurl }}/img/journal/Hongkong/pc006.jpg" alt="Course in Hong Kong University" width="420px" height="560px">
 <figcaption style="font-size: 14px; color: gray;">上课</figcaption>
 </figure>
-</p>
 
+<p>中午12点下课了之后，就在开始了港大校园tour。进了庄月明楼看看，被朋友科普了这座楼是李嘉诚为庄月明建立的，有点故事感兴趣的👉 [wiki link](https://zh.wikipedia.org/wiki/%E8%8E%8A%E6%9C%88%E6%98%8E) </p>
 
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc007.jpg" alt="ZhuangYueMing Building" width="420px" height="560px">
+<figcaption style="font-size: 14px; color: gray;">庄月明楼</figcaption>
+</figure>
 
+<p>这不开始港大打卡，周六的图书馆也是人满为患。</p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc008.jpg" alt="Hongkong University" width="420px" height="560px">
+<figcaption style="font-size: 14px; color: gray;">Hongkong University</figcaption>
+</figure>
 
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc011.jpg" alt="Friend(Shuyi) with Me" width="420px" height="560px">
+<figcaption style="font-size: 14px; color: gray;">Friend(Shuyi) with Me</figcaption>
+</figure>
 
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc009.jpg" alt="Hongkong University Library" width="420px" height="560px">
+<figcaption style="font-size: 14px; color: gray;">Hongkong University Library</figcaption>
+</figure>
+
+<p>然后就去Victoria Peak (The Peak)开始Hiking了，虽然小hiking但是风景却不输其他徒步线，毕竟这里能看到维多利亚港口以及整个港口风景。夜晚的香港真的富贵迷人眼，但是也让人产生一种巨大的割裂感。</p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Hongkong/pc010.jpg" alt="Victoria Peak (The Peak)" width="420px" height="560px">
+<figcaption style="font-size: 14px; color: gray;">Victoria Peak (The Peak)</figcaption>
+</figure>
 
 
 
