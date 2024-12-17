@@ -61,20 +61,6 @@ gems:
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-paginate: 5
-paginate_path: "/visa/page:num/"
-permalink: "/visa/:title/"
-categories_path: "/visa/category/"
-tags_path: "/visa/tag/"
-gems: 
- - jekyll-paginate
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
 # SiteMap
 sitemap:
     file: "/sitemap.xml"
