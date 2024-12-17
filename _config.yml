@@ -33,6 +33,7 @@ comments :
 
 # Internal nav
 nav:
+  - VISA: "https://oasisnoehub.github.io/oasis-journey/visa/"
   - GALLERY: "https://oasisnoehub.github.io/oasis-journey/gallery/"  
   - JOURNAL: "https://oasisnoehub.github.io/oasis-journey/journal/"
   - ABOUT: "https://oasisnoehub.github.io/oasis-journey/about/"
