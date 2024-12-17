@@ -1,0 +1,311 @@
+---
+layout:     post
+title:      "Annapurna Base Camp 安纳普尔纳大本营"
+subtitle:   "Annapurna Base Camp Trek (ABC) ABC路线"
+active: journal
+image:
+  feature: ""
+date:       2019-01-15 
+header-img: "img/postcover/pc010.jpg"
+tags: [Travel,Life]
+categories: [Nepal]
+comments: false
+---
+<div>
+<h1> Introduction 介绍</h1>
+<h2>Annapurna (mountain range) 安纳普尔那山脉</h2>
+<blockquote>
+<p>Annapurna is a massif in the Himalayas in north-central Nepal that includes one peak over 8,000 metres (26,247 ft), thirteen peaks over 7,000 metres (22,966 ft), and sixteen more over 6,000 metres (19,685 ft).[3] The massif is 55 kilometres (34 mi) long, and is bounded by the Kali Gandaki Gorge on the west, the Marshyangdi River on the north and east, and by the Pokhara Valley on the south. At its western end, the massif encloses a high basin called the Annapurna Sanctuary. The highest peak of the massif, Annapurna I Main, is the 10th highest mountain in the world at 8,091 metres (26,545 ft) above sea level. [Cite:Wikipedia]</p>
+<p>安纳普尔纳是尼泊尔北部中部喜马拉雅山脉的一座山脉，包括一个海拔超过8,000米（26,247英尺）的山峰，十三座海拔超过7,000米（22,966英尺）的山峰，以及另外十六座海拔超过6,000米（19,685英尺）的山峰。该山脉长55公里（34英里），西部被卡利甘达基峡谷环绕，北部和东部被马河环绕，南部被博卡拉山谷环绕。在其西端，山脉封闭了一个高山盆地，称为安纳普尔纳圣域。山脉的最高峰安纳普尔纳一号峰，海拔8,091米（26,545英尺），是世界第十高的山.</p>
+<p>Maurice Herzog led a French expedition to its summit through the north face in 1950, making it the first eight-thousander to be successfully climbed.[Cite:Wikipedia]</p>
+<p>毛里斯·赫尔佐格在1950年领导了一支法国登山队通过北壁成功登顶，使其成为第一个成功登顶的八千米高峰。</p>
+<p>The name for the range comes from the Hindu deity Annapurna meaning the giver of food and nourishment.[Cite:Wikipedia]</p>
+<p>该地区得名于印度教神祇安纳普尔纳，意为“食物和滋养的赐予者”.</p>
+<p>The entire massif and surrounding area are protected within the 7,629-square-kilometre (2,946 sq mi) Annapurna Conservation Area, the first and largest conservation area in Nepal. The Annapurna Conservation Area is home to several world-class treks, including the Annapurna Sanctuary and Annapurna Circuit.[Cite:Wikipedia]</p>
+<p>整个山脉及其周围地区都受到7,629平方公里（2,946平方英里）的安纳普尔纳保护区保护，这是尼泊尔第一个也是最大的保护区。安纳普尔纳保护区是世界上几条一流的徒步旅行线路的家园，包括安纳普尔纳圣域和安纳普尔纳环线。</p>
+<p>The Annapurna peaks have been among the world's most treacherous mountains to climb with the particular case of the extremely steep south face of Annapurna I Main – a wall of rock that rises 3,000 metres (9,800 feet) – making it one of the most difficult climbs in the world.[6] By January 2022, there had been 365 summit ascents of Annapurna I Main, and 72 climbing fatalities for a fatality rate of just under 20 percent.[Cite:Wikipedia]</p>
+<p>安纳普尔纳峰一直是世界上最危险的登山之一，尤其是安纳普尔纳一号峰的极陡南壁——一道高耸的岩壁，高3,000米（9,800英尺）——使其成为世界上最困难的攀登之一。截至2022年1月，已有365次登顶安纳普尔纳一号峰，72人死于攀登，死亡率略低于20%。</p>
+</blockquote>
+</div>
+
+<br>
+<div class="crossnote markdown-preview  ">
+<h1>Incomplete Travel Journal 不完全旅行日志</h1>
+<p>-- BY YIN YILING</p>
+<h2>Itinerary 行程</h2>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc001.jpg" alt="alt text" width="780px" height="520px">
+  <figcaption style="font-size: 14px; color: gray;">行程</figcaption>
+  </figure>
+</p>
+
+<h2>Recording 记录</h2>
+<h3>Preface 前言</h3>
+<blockquote>
+<p>感觉虽然2019年的尼泊尔之旅已经过去挺久了，但是经过这次的旅行，又不知不觉勾起了自己以前在路上的感觉，感觉很奇妙，可能只有同时在路上的时候才会有相同的感觉发生。虽然之前也有用文字记录下这种感觉，但是自己有段时间抽风把所有的记录都删除掉了，也没有机智的保存备份。随着时间的流逝，过去好像在被慢慢遗忘，有时候甚至怀疑自己是否有去那些地方，但当看到一张张照片以及照片里面的时候才会记起那个时刻发生的事和遇见的人。好像&quot;本我&quot;就是由这些记忆组成，害怕自己忘记这些记忆和感觉，逐渐忘记生活的新奇和美好，所以想用文字记录下来路上的事。</p>
+</blockquote>
+<blockquote>
+<p>2019年1月15日，此时的我呢，还是一名大四学生，准备着自己最后的毕业设计，不知道为什么萌发了去尼泊尔徒步的计划。于是逞着春节开启了尼泊尔之行。说来也巧，在尼泊尔的这段时间，刚好也是国内疫情开始爆发的时间，谁能想到疫情带走了很多人的三年，当然也包括我的。</p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc002.jpg" alt="alt text" width="580px" height="320px">
+  <figcaption style="font-size: 14px; color: gray;">飞机上群览雪山山脉</figcaption>
+  </figure>
+</p>
+
+<blockquote>
+<p>从成都到Kathmandu加德满都（尼泊尔首都）的航线可以看到喜马拉雅雪山，从飞机上望去成群的雪山山脉确实带来了些许震撼。对了在登机的时候还遇见了一个尼泊尔小伙在中国留学，就和他聊了聊，中文说的可真溜。在拉萨停转的时候还遇到一位美国外教在成都一所大学教书。很巧的是之后在加德满都闲逛的时候又遇见了他们。</p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc003.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">KTM 特里布万机场</figcaption>
+  </figure>
+</p>
+
+<blockquote>
+<p>在飞机上认识了一对很好的中国夫妇，聊谈中才发现他们的计划也是去徒步，大叔说这不是他第一次来尼泊尔了，这次打算和他爱人挑战BEC线，于是结伴去办电话卡和登山证。希望自己随着时间的流逝仍能保持对探索世界的热爱。</p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc004.jpg" alt="alt text" width="580px" height="320px">
+  <figcaption style="font-size: 14px; color: gray;">Annapurna安纳普尔那保护区登山证</figcaption>
+  </figure>
+</p>
+
+<blockquote>
+<p>办好登山证和电话卡就和叔叔阿姨彼此告别，就准备去预定的住宿Blue Mountain Homestay。</p>
+<p>Homestay天台的风景还蛮不错的。Homestay的小哥还给我做了一杯咖啡。旅行过程不知道喝了多少杯当地的咖啡和煮奶茶：）</p>
+</blockquote>
+
+<blockquote>
+<p>休整了一下，就联系小哥问他有没有到博卡拉的大巴，准备第二天一大早做大巴到博卡拉。我记得凌晨5点吧，就坐在大巴上等着准备出发。认识了邻座的尼泊尔女孩，和她聊了很多，我们也互相关注了Ins。她和她朋友也是准备到博卡拉徒步。她告诉我说她学的记者专业，未来计划是毕业之后到澳洲发展，我问你喜欢你的专业吗？她用非常肯定的语气说是的，我其实很诧异为什么她这么肯定且毫无保留的表达出自己喜欢的东西。3年后，我在Ins上看到，她确实去澳洲了，而我告诉的她的我的计划现在却没有实现。大巴的氛围很好，乘车的本地年轻人放起了当地的流行歌，还跟着唱了起来。虽然我一句也听不懂，问了邻座女孩，她告诉我唱的大概就是关于love kind of stuff。中途休息的时候还认识了来自澳大利亚的逆天长腿帅哥和他的当地导游。</p>
+</blockquote>
+
+<blockquote>
+<p>6:00 pm 终于到博卡拉，没有提前订住宿，所以下车之后还得找住的地方，谁能想遇到了好心的小龙哥，和我同一个车，说他刚好有个房间有两张床，可以去他那里暂住一天。于是遇到了很多去徒步的中国朋友们。</p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc031.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">博卡拉住宿之小龙哥</figcaption>
+  </figure>
+</p>
+
+
+<blockquote>
+<p>之后小龙哥他们走EBC，而我走ABC路线，于是第二天就和他分道扬镳了，出发去ABC线路的起始点，开始徒步了。</p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">登山证检查指示牌</figcaption>
+  </figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc009.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">Annapurna安纳普尔那保护区指示牌</figcaption>
+  </figure>
+</p>
+
+<blockquote>
+<p>背着个大包真的是要命，走了一天到了晚上之后到中途的一个村休整，真的巨冷，一路下着雨，身上都打湿了，结果晚上住宿的地方还只能用炭木柴火来烤干衣服。第二天衣服一股焦炭味真的有点绝👋。终于熬过晚上，第二天吃完早饭就出发，路上风景像一幅幅油画。</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc010.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">老人风景画</figcaption>
+  </figure>
+</p>
+
+<blockquote>
+<p>在我们徒步上山的时候ABC发生雪崩，有些人被埋，当然有些人很幸运，但有些人却永远离不开那里了。遇到从上面下来人们中的一个女生很幸运被她的导游从雪里给拉出来。在半山腰的时候就看见直升飞机去救援，然后被告知封山了不让徒步者继续上山了，所以算是不幸中的万幸，不幸的是遗憾。</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc012.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">救援直升机</figcaption>
+  </figure>
+</p>
+<blockquote>
+<p>因为雪崩封山，没法继续徒步，终断了原计划的徒步日程。由于已是半晚于是在View Top Hotel住下，真的很推荐这家Hotel。</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc013.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">View Top Hotel</figcaption>
+  </figure>
+</p>
+<blockquote>
+<p>站在Hotel前面，安纳普尔纳峰（Annapurna）和鱼尾峰(Machapuchare)双双引入眼前，真的美的不像话。</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc014.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">Annapurna安纳普尔纳峰</figcaption>
+  </figure>
+</p>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc015.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">Machapuchare鱼尾峰</figcaption>
+  </figure>
+</p>
+<blockquote>
+<p>由于被打乱了计划时，于是就计划返程去费瓦湖（Phewa Lake）附近，然后体验博卡拉具有性价比的滑翔伞🪂。下山之后会有越野车拉客，于是和几个一起下山的陌生人拼车到Phewa Lake，然后找住宿住下。</p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc016.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">吊桥</figcaption>
+  </figure>
+</p>
+
+<blockquote>
+<p>路上偶遇到嘻哈小哥，好喜欢他的笑容，于是抓拍了下来。</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc017.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">嘻哈小哥</figcaption>
+  </figure>
+</p>
+
+<blockquote>
+<p>沿途问了很多家滑翔伞店，终于找到愿意给我们最低价的一家，包含接送+录像拍照+滑翔，于是预定好明天早上在这里集合坐车去滑翔地点。</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc018.jpg" alt="alt text" width="480px" height="320px">
+  <figcaption style="font-size: 14px; color: gray;">滑翔伞店</figcaption>
+  </figure>
+</p>
+<blockquote>
+<p>和我同路的两个大哥，在一起找到住宿之后，正愁不知道去哪吃晚饭呢，同行的一个大哥不知道为什么混进了正在举行婚礼的Party，于是叫我和另一个大哥一起来，于是就这样混入了当地的婚礼派对。</p>
+<p>好喜欢这种随意的活跃的婚礼，所以后悔自己没早点学跳舞了👋。</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc019.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">尼泊尔婚礼</figcaption>
+  </figure>
+</p>
+<blockquote>
+<p>离开的时候在门口遇见奶奶一家，请我帮他们拍一张全家照，拍完之后奶奶邀请我和她们一起拍，当时我还有点害羞，畏手畏脚，但是奶奶挽着我，把我紧紧拉到她身边，于是一起融入到她的大家庭中，拍了一张“全家福”。所以有时爱来自意想不到的瞬间。</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc020.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">陌生奶奶的全家福</figcaption>
+  </figure>
+</p>
+<blockquote>
+<p>第二天早上我起的很早，不知道为什么旅行的时候反而睡不着，于是清晨出来散步，可能想慢慢好好看看这些地方。</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc021.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">清晨博卡拉</figcaption>
+  </figure>
+</p>
+<blockquote>
+<p>慢慢的吃完早餐，就慢悠悠的乘车去集合点了。滑翔高地背后是一览无余的雪山山脉</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc022.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">雪山山脉</figcaption>
+  </figure>
+</p>
+<blockquote>
+<p>这就是带我飞的滑翔伞教练</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc023.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">滑翔伞教练</figcaption>
+  </figure>
+</p>
+<blockquote>
+<p>教练你把我拍成1米3真的好吗？？？亏我闲聊的时候还夸他很帅！</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc024.jpg" alt="alt text" width="480px" height="320px">
+  <figcaption style="font-size: 14px; color: gray;">“1米3的我”</figcaption>
+  </figure>
+</p>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc025.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">滑翔伞</figcaption>
+  </figure>
+</p>
+<blockquote>
+<p>认真练习控制滑翔伞的小学徒，费劲的拉着远大于他小小身体好几倍的滑翔伞🪂。突然一种想要学滑翔伞的冲动涌上心头。</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc026.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">认真练习的滑翔伞学徒</figcaption>
+  </figure>
+</p>
+<blockquote>
+<p>虽然结束了滑翔，但是兴奋之余久久无法消尽。坐车回到费瓦湖街上，在街上随便逛逛，买了一些明信片。</p>
+<p>第二天就租了山地自行车绕着费瓦湖骑行了一圈，倒也是有点累。</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc027.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">费瓦湖骑行</figcaption>
+  </figure>
+</p>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc028.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">打招呼的尼泊尔女孩</figcaption>
+  </figure>
+</p>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc029.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">体能训练的尼泊尔男孩</figcaption>
+  </figure>
+</p>
+<blockquote>
+<p>之后就去买了到加德满都的大巴票，准备返回到加德满都，结束了徒步的日程，但也准备开启在尼泊尔高中做志愿者的日程了。</p>
+</blockquote>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc030.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">博卡拉大巴站</figcaption>
+  </figure>
+</p>
+</div>
+
+<!-- EXTRA INFO -->
+<div style="font-size: 14px;">
+<p>
+Placeholder text by <a> <strong>YIN YILING</strong></a>.
+Photography by <a><strong>YIN YILING</strong></a>.
+</p>
+
+<p>
+If you enjoy my stories, please subscribe to my travel blog by entering your email below and clicking the subscribe button.
+</p>
+<p>
+如果您喜欢我的故事，请在下方输入您的电子邮件并点击订阅按钮，订阅我的旅行博客 ⬇️
+</p>
+</div>
+
