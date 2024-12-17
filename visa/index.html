@@ -39,8 +39,8 @@ header-img: "img/writing-bg1.jpg"
     <div class="container">
       <div class="blockGroup">
         <ul class="blockGroup-list">
-          {% for post in paginator.posts %}
-            {% assign post = site.posts.first %}
+          {% for post in paginator.pages %}
+            {% assign post = site.pages.first %}
             {% assign content = post.content %}
             <li class="block">
               <div class="postArticle-wrapper">

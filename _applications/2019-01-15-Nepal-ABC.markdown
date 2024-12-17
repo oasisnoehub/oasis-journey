@@ -1,8 +1,8 @@
 ---
-layout:     post
+layout:     application
 title:      "Annapurna Base Camp 安纳普尔纳大本营"
 subtitle:   "Annapurna Base Camp Trek (ABC) ABC路线"
-active: journal
+active: application
 image:
   feature: ""
 date:       2019-01-15 
