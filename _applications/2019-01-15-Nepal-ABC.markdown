@@ -31,7 +31,7 @@ comments: false
 <br>
 <div class="crossnote markdown-preview  ">
 <h1>Incomplete Travel Journal 不完全旅行日志</h1>
-<p>-- BY YIN YILING</p>
+<p>-- BY YILING YIN</p>
 <h2>Itinerary 行程</h2>
 
 <p>
@@ -297,8 +297,8 @@ comments: false
 <!-- EXTRA INFO -->
 <div style="font-size: 14px;">
 <p>
-Placeholder text by <a> <strong>YIN YILING</strong></a>.
-Photography by <a><strong>YIN YILING</strong></a>.
+Placeholder text by <a> <strong>YILING YIN</strong></a>.
+Photography by <a><strong>YILING YIN</strong></a>.
 </p>
 
 <p>

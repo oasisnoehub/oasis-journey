@@ -30,4 +30,4 @@ Stretching across the heart of Kuala Lumpur, the City Walk is a pedestrian-frien
 <p>Plan your visit to the museums and galleries in advance, as opening hours may vary.</p>
 <p>Check for special exhibitions or events happening during your visit to make the most of your cultural experience.</p>
 
-<p>Placeholder text by <a>YIN YILING</a>. Photography by <a>YIN YILING</a>.</p>
+<p>Placeholder text by <a>YILING YIN</a>. Photography by <a>YILING YIN</a>.</p>

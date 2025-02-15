@@ -309,8 +309,8 @@ comments: false
 <!-- EXTRA INFO -->
 <div style="font-size: 14px;">
 <p>
-Placeholder text by <a> <strong>YIN YILING</strong></a>.
-Photography by <a><strong>YIN YILING</strong></a>.
+Placeholder text by <a> <strong>YILING YIN</strong></a>.
+Photography by <a><strong>YILING YIN</strong></a>.
 </p>
 
 <p>

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Teaching Volunteer Experience in Kathmandu"
 subtitle:   "Teaching Volunteer"
-active: visa
+active: journal
 image:
   feature: ""
 date:       2019-01-22 
@@ -13,7 +13,8 @@ comments: false
 ---
 
 
-<p>Hello, fellowers! My name is YIN YILING(Rae) and I had the incredible opportunity to be a teaching volunteer in a local high school in Kathmandu, Nepal. Kathmandu, the capital city of Nepal, is a vibrant and diverse city that is rich in history, culture, and traditions.</p>
+<p>In 2019, I had the incredible opportunity to be a teaching volunteer in a local high school in Kathmandu, Nepal. Kathmandu, the capital city of Nepal, is a vibrant and diverse city that is rich in history, culture, and traditions.
+</p>
 
 <p>The high school I volunteered at was located in the heart of Kathmandu. The school was a melting pot of different cultures and backgrounds, with students from various ethnic groups and regions of Nepal. The teachers were dedicated and passionate about providing quality education to their students, and the students were eager to learn and make the most of their education.</p>
 
@@ -31,4 +32,4 @@ comments: false
 <li>Connect with other volunteers and locals. Building relationships with others will enrich your experience and help you make the most of your time in Kathmandu.</li>
 </ul>
 
-<p>Placeholder text by <a>YIN YILING</a>. Photography by <a>YIN YILING</a>.</p>
+<p>Placeholder text by <a>YILING YIN</a>. Photography by <a>YILING YIN</a>.</p>

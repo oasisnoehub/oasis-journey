@@ -44,4 +44,4 @@ h1>A Dynamic Escape: Unveiling the Delights of Pattaya, Thailand</h1>
 </ul>
 
 
-<p>Placeholder text by <a>YIN YILING</a>. Photography by <a>YIN YILING</a>.</p>
+<p>Placeholder text by <a>YILING YIN</a>. Photography by <a>YILING YIN</a>.</p>

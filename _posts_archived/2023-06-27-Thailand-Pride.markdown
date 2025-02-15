@@ -30,4 +30,4 @@ comments: false
 <p>Overall, the LGBTQ+ Ad Board in the Sam Centre is a powerful and inspiring initiative that reflects Bangkok's progressive spirit and commitment to diversity and inclusion. It is a testament to the city's vibrant LGBTQ+ community and its ongoing struggle for recognition, acceptance, and equality.</p>
 
 
-<p>Placeholder text by <a>YIN YILING</a>. Photography by <a>YIN YILING</a>.</p>
+<p>Placeholder text by <a>YILING YIN</a>. Photography by <a>YILING YIN</a>.</p>
