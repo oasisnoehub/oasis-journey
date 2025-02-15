@@ -2,7 +2,7 @@
 layout:     post
 title:      "Teaching Volunteer Experience in Kathmandu"
 subtitle:   "Teaching Volunteer"
-active: journal
+active: visa
 image:
   feature: ""
 date:       2019-01-22 
