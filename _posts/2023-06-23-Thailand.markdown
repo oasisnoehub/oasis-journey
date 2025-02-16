@@ -1,140 +1,106 @@
 ---
 layout:     post
-title:      "Thailand Bankok"
-subtitle:   "Solo Travel"
+title:      "Bangkok, Thailand 曼谷，泰国"
+subtitle:   "Graduation Trip 毕业旅行"
 active: journal
 image:
   feature: ""
 date:       2023-06-23
-header-img: "img/postcover/pc012.jpg"
+header-img: "img/postcover/pc005.jpg"
 tags: [Travel,Life]
 categories: [Thailand]
 comments: false
 ---
-<div class="crossnote markdown-preview  ">
-<h1 id="incomplete-travel-guide--journal">Incomplete Travel Guide &amp; Journal </h1>
-<h2 id="itinerary-行程">Itinerary 行程 </h2>
-<h2 id="incomplete-travel-guide-不完全旅游攻略">Incomplete Travel Guide 不完全旅游攻略 </h2>
-<p style="color: white;">
- | 航司:国泰航空 Cathay Pacific (真的巨推荐！) <br>
- | 借宿: 朋友家借宿 <br>
- | 交通: 飞机+公交+地铁 <br>
- | 免责声明：根据自身情况选择预定软件和住宿地址</p>
 
-<p  style="color: white;" ><strong>2024-11-08 DAY01</strong><br>
-<strong>Airport : Beijing Capital International Airport 北京首都国际机场</strong><br>
-<strong>Accomdation : A friend of mine</strong><br>
-<strong>Visa: 港澳通行证 （大陆居民）</strong><br>
-<strong>To Hongkong: Airport Train (Express) </strong><br>
-<strong>
-注意：订购选择证件的时候，可以选择护照还是港澳通行证（登机的时候，仅需要携带根据值机填写的证件类型即可）
-</strong><br>
+<strong>Original Airport 起始机场: Chongqing Jiangbei International Airport (重庆江北国际机场)</strong><br>
+<strong>Destination Airport 目的地机场: Don Mueang International Airport (曼谷廊曼国际机场)</strong><br>
+<strong>Accommodation 住宿: 通过agoda预订</strong><br>
+<strong>Visa 签证: 落地签</strong><br>
 
+<blockquote>
+<p>在即将到来的研究生毕业典礼之前，决定来一场短暂的毕业旅行。在给两个表姐们说了这个想法之后，表姐们也想和我一起去泰国玩，于是我们三人一行在重庆集合出发啦。</p>
+</blockquote>
 
-<p>在VFS Global Beijing 中心递交完UK Visa申请，按完生物指纹之后，就打车匆匆赶去首都机场了。不过到的时候感觉时间挺充盈，因为就背了一个背包，过关的时候挺流畅的。</p>
 <p>
-
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc001.jpg" alt="Airpot Boarding Time" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">首都机场候机厅登机电子公告牌</figcaption>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc001.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">重庆轻轨</figcaption>
 </figure>
 </p>
 
-<p>等着无聊就在候机厅座位上看书，最近在看的一本叫《Die With Zero》。可能这本书，给了我这次周末出行的动力吧。不想称之为冲动，更想把它称为创造回忆。</p>
-
+<p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc000.jpg" alt="Airpot Lounge" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">候机厅</figcaption>
-</figure>
-
-
-<figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc002.jpg" alt="《Die With Zero》" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">《Die With Zero》</figcaption>
-</figure>
-
-
-<p>大概晚上10左右到机场之后，直接乘坐机场快线到 香港站 （香港机场到市区里面只有机场快线，没有普通的地铁），直接冲上去就行，然后出站的时候再买票🎫就可以了，不得不说是真的快，也挺舒适的。到香港站之后，在中环站（就在到达的香港站里面换乘）换乘 港澳线 到香港大学。</p>
-
-<figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc003.jpg" alt="Hongkong Central" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">Hongkong Central</figcaption>
-</figure>
-
-
-<p>到港大站之后从b2出口就到朋友家楼下了，真的香港居住密度的压力铺面而来，独具一番港味😂</p>
-<figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc004.jpg" alt="Hongkong Street" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">Hongkong Street</figcaption>
-</figure>
-
-
-<p>到朋友家把背包放下就散歩去坚尼地城逛逛，好喜欢这样的氛围，好多年轻人在海边喝酒玩游戏，聊天轮滑。真的挺喜欢和朋友散散步聊聊天，舒缓长期以来麻木的内心，感受一下生活的美好。虽然自己早已没有什么文艺的内心，更加的向内寻求，但是交流在向内寻求的路途中也是一些调味剂和矫正器。</p>
-<figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc005.jpg" alt="Kennedy Town Hong Kong" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">Kennedy Town Hong Kong</figcaption>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc002.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">从重庆江北机场出发</figcaption>
 </figure>
 </p>
 
-<p>逛了逛之后回朋友家休息了。香港果然寸土寸金，虽然房间很小，但是租金价格真的高的离谱，东西的价格也是相较于大陆来说高。为什么大家还想来香港呢？确实引人思考。</p>
-<p>第二天周六，朋友还有课。于是假装港大人的一天就开始了。觉得挺有意思的，能逃离现在的身份，作为另一种身份生活的机会，确实让我很兴奋。在无法改变现在的生活状态的时候，考虑慢慢尝试自己想要的生活。坐在朋友旁听了朋友上的全英授课。大概讲的就是计算机处理器编译操作、动态规划之类的东西。</p>
-
+<p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc006.jpg" alt="Course in Hong Kong University" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">上课</figcaption>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc003.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">飞机上</figcaption>
 </figure>
+</p>
 
-<p>中午12点下课了之后，就在开始了港大校园tour。进了庄月明楼看看，被朋友科普了这座楼是李嘉诚为庄月明建立的，有点故事感兴趣的👉 [wiki link](https://zh.wikipedia.org/wiki/%E8%8E%8A%E6%9C%88%E6%98%8E) </p>
+<blockquote>
+<p>第一天住在曼谷中国城附近的 URBY Hotel。行李一放，就赶紧出门溜达，顺便在中国城找点好吃的！随便买了点街边小吃，但可能太甜了，实在吃不惯，就浅尝辄止。逛了一会儿，可能是刚下飞机有点累，索性回Hotel洗漱休息，养足精神再继续接下来的行程！</p>
+</blockquote>
 
+<p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc007.jpg" alt="ZhuangYueMing Building" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">庄月明楼</figcaption>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc004.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">我和尹碟在 URBY Hotel</figcaption>
 </figure>
+</p>
 
-<p>这不开始港大打卡，周六的图书馆也是人满为患。</p>
+<p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc008.jpg" alt="Hongkong University" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">Hongkong University</figcaption>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc005.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">冰奶茶</figcaption>
 </figure>
+</p>
 
+<p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc011.jpg" alt="Friend(Shuyi) with Me" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">Friend(Shuyi) with Me</figcaption>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc006.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">不知名甜点（忘记名字啦）</figcaption>
 </figure>
+</p>
 
+<p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc009.jpg" alt="Hongkong University Library" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">Hongkong University Library</figcaption>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc007.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">街边水果摊</figcaption>
 </figure>
+</p>
 
-<p>然后就去Victoria Peak (The Peak)开始Hiking了，虽然小hiking但是风景却不输其他徒步线，毕竟这里能看到维多利亚港口以及整个港口风景。夜晚的香港真的富贵迷人眼，但是也让人产生一种巨大的割裂感。</p>
+<blockquote>
+<p>第二天URBY Hotel外边的开放休闲阳台，这个阳台真的很舒服，风景很好。</p>
+</blockquote>
+
+<p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc010.jpg" alt="Victoria Peak (The Peak)" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">Victoria Peak (The Peak)</figcaption>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc009.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">在阳台上</figcaption>
 </figure>
+</p>
 
+<p>
 <figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc013.jpg" alt="Me at Victoria Peak (The Peak)" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">Me at Victoria Peak (The Peak)</figcaption>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc008.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">我和尹佳在阳台上</figcaption>
 </figure>
-
-<figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc014.jpg" alt="Hongkong Night" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">Hongkong Night</figcaption>
-</figure>
+</p>
 
 
-<p>Anyway, do what you will and then you will find your path.</p>
+<!-- EXTRA INFO -->
 
 <blockquote>
   <p style="color: white;" ><strong>STORY END.</strong><br>
-  “我旅行是因为喜欢到处走动，我享受旅行给我的自由感觉，我很高兴摆脱羁绊，责任和义务我喜爱未知事物，我结识一些奇人，他们给我片刻欢愉，我时常腻烦我自己，以为借助旅行可以丰富个性，让我略有改观，我旅行一趟，回来的时候不会依然故我”<br>
+  “我旅行是因为喜欢到处走动，我享受旅行给我的自由感觉，我很高兴摆脱羁绊，责任和义务，我喜爱未知事物，我结识一些奇人，他们给我片刻欢愉，我时常腻烦我自己，以为借助旅行可以丰富个性，让我略有改观，我旅行一趟，回来的时候不会依然故我”<br>
   -- 毛姆</p>
 </blockquote>
 
-</div>
-
-<!-- EXTRA INFO -->
 <div style="font-size: 14px;">
 <p>
 Placeholder text by <a> <strong>YILING YIN</strong></a>.
