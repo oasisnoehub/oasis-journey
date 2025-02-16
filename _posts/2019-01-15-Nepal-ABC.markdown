@@ -196,7 +196,7 @@ comments: false
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc018.jpg" alt="alt text" width="480px" height="320px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc018.jpg" alt="alt text" width="480px" height="620px">
   <figcaption style="font-size: 14px; color: gray;">滑翔伞店</figcaption>
   </figure>
 </p>
