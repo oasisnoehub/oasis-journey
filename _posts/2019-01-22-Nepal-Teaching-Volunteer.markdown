@@ -236,8 +236,8 @@ comments: false
 
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc026.jpg" alt="alt text">
-  <figcaption style="font-size: 14px; color: gray;">回程飞机上</figcaption>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc026.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray; ">回程飞机上</figcaption>
 </figure>
 </p>
 
