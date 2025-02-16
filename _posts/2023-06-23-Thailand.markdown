@@ -11,11 +11,14 @@ tags: [Travel,Life]
 categories: [Thailand]
 comments: false
 ---
-
+<h1>Bangkok, Thailand 曼谷，泰国</h1>
+<h2>Graduation Trip 毕业旅行</h2>
+<p>
 <strong>Original Airport 起始机场: Chongqing Jiangbei International Airport (重庆江北国际机场)</strong><br>
 <strong>Destination Airport 目的地机场: Don Mueang International Airport (曼谷廊曼国际机场)</strong><br>
 <strong>Accommodation 住宿: 通过agoda预订</strong><br>
 <strong>Visa 签证: 落地签</strong><br>
+</p>
 
 <blockquote>
 <p>在即将到来的研究生毕业典礼之前，决定来一场短暂的毕业旅行。在给两个表姐们说了这个想法之后，表姐们也想和我一起去泰国玩，于是我们三人一行在重庆集合出发啦。</p>
@@ -75,7 +78,7 @@ comments: false
 </p>
 
 <blockquote>
-<p>第二天URBY Hotel外边的开放休闲阳台，这个阳台真的很舒服，风景很好。</p>
+<p>第二天，在 URBY Hotel 外的开放式休闲阳台待了一会儿，真的太舒服了，微风拂面，景色超棒，让人不想离开。</p>
 </blockquote>
 
 <p>
@@ -91,6 +94,73 @@ comments: false
   <figcaption style="font-size: 14px; color: gray;">我和尹佳在阳台上</figcaption>
 </figure>
 </p>
+
+<blockquote>
+<p>休整片刻后，我们兴冲冲地出发去 ICONSIAM 和 Central World，准备开启疯狂购物模式！结果逛了一圈，就吃了个饭，啥都没买，纯属走走过场，笑死😂。</p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc013.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">地铁上</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc011.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">ICONSIAM 楼顶（表姐们）</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc012.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">美食</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc015.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">商场内的梵高live</figcaption>
+</figure>
+</p>
+
+<blockquote>
+<p>哈哈，正好赶上泰国骄傲月的尾巴！</p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc014.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">骄傲月末尾</figcaption>
+</figure>
+</p>
+
+<blockquote>
+<p>接下来的行程安排是曼谷的经典景点——大皇宫和卧佛寺，亲眼见到那些金碧辉煌的建筑，真的比照片上还要震撼。然后，再去郑王庙（Wat Arun）。</p>
+</blockquote>
+
+<blockquote>
+<p>
+补充介绍：
+**大皇宫（Grand Palace）**：建于1782年的大皇宫，是泰国历代王室的居所，也是泰国建筑艺术的瑰宝。它融合了泰式、欧洲和中式风格，金碧辉煌，气势恢宏。其中最引人注目的是玉佛寺（Wat Phra Kaew），这里供奉着泰国最神圣的玉佛。
+
+**卧佛寺（Wat Pho）**：作为泰国最古老、规模最大的寺庙之一，卧佛寺以其巨大的金色卧佛闻名于世。这尊卧佛全长46米，高15米，静静地侧卧在寺庙中，象征着佛祖涅槃时的宁静与安详。
+
+**郑王庙（Wat Arun）**：也被称为“黎明寺”，是曼谷最具标志性的寺庙之一。它的历史可以追溯到泰国的大城王朝时期，后来在拉玛二世时期进行了大规模重建。寺庙的名字“黎明”来源于印度黎明之神阿鲁纳（Aruna），象征着希望与新生。郑王庙最引人注目的是它高耸的中央塔楼，表面镶嵌着无数彩色陶瓷片，在阳光下熠熠生辉。这座寺庙不仅是一座宗教建筑，更是泰国历史与文化的象征。
+</p>
+</blockquote>
+
+
+
+
+
+
+
+
+
 
 
 <!-- EXTRA INFO -->
