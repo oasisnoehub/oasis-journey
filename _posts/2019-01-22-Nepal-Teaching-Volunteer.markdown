@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Teaching Volunteer Experience in Kathmandu"
+title:      "Teaching Volunteer Experience in Kathmandu 在加德满都的教师志愿者日常"
 subtitle:   "Teaching Volunteer"
 active: journal
 image:
@@ -12,24 +12,64 @@ categories: [Nepal]
 comments: false
 ---
 
-
-<p>In 2019, I had the incredible opportunity to be a teaching volunteer in a local high school in Kathmandu, Nepal. Kathmandu, the capital city of Nepal, is a vibrant and diverse city that is rich in history, culture, and traditions.
+<p>继之前博卡拉之行后，就乘大巴回到加德满都，准备返回到加德满都，结束了徒步的日程，但也准备开启在尼泊尔高中做志愿者的日程了。
 </p>
 
-<p>The high school I volunteered at was located in the heart of Kathmandu. The school was a melting pot of different cultures and backgrounds, with students from various ethnic groups and regions of Nepal. The teachers were dedicated and passionate about providing quality education to their students, and the students were eager to learn and make the most of their education.</p>
+<p>
+回去的时候还是继续待在了Blue Mountain Homestay。在加德满都的日子挺有意思。这地方到处都是历史和文化的气息，古老的寺庙、宫殿，还有热闹的市场。充满宗教气息。
+</p>
 
-<p>As a teaching volunteer, I had the opportunity to teach a variety of subjects, including English, mathematics, and science. The classes were conducted in English, which was a challenge for many of the students, but they were eager to learn and improve their language skills. I used interactive teaching methods, such as games, group activities, and multimedia presentations, to make the classes engaging and enjoyable.</p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc001.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">当地市场</figcaption>
+</figure>
 
-<p>Living in Kathmandu was a unique and enriching experience. I stayed with a local family who welcomed me with open arms and made me feel at home. The city's rich history and cultural heritage were evident everywhere, from the ancient temples and palaces to the bustling markets and colorful festivals.</p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc002.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">加德满都杜巴广场</figcaption>
+</figure>
 
-<p>During my free time, I explored the natural beauty of Nepal. I went on treks in the Himalayas, visited ancient temples and monasteries, and experienced the vibrant culture and traditions of the Nepali people. The country's diverse landscapes, from lush valleys to snow-capped peaks, were truly breathtaking.</p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc005.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">加德满都广场卖画人</figcaption>
+</figure>
 
-<p>My teaching volunteer experience in Kathmandu was a transformative journey that taught me the value of education, cultural exchange, and community. It was a privilege to contribute to the education of the students and learn from the local community. Kathmandu will always hold a special place in my heart, and I hope to return someday to continue my work as an educator and explorer.</p>
-<a>>Pro Tips for Future Volunteers:</a>
-<ul>
-<li>Be open-minded and flexible. Teaching in a foreign country can be challenging, but it's important to adapt to the local culture and customs.</li>
-<li>Take the time to explore the city and immerse yourself in the local culture. Kathmandu has so much to offer, from its stunning architecture to its bustling markets and vibrant festivals.</li>
-<li>Connect with other volunteers and locals. Building relationships with others will enrich your experience and help you make the most of your time in Kathmandu.</li>
-</ul>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc003.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">加德满都侯庙</figcaption>
+</figure>
 
-<p>Placeholder text by <a>YILING YIN</a>. Photography by <a>YILING YIN</a>.</p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc004.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">沿路城市风景</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc006.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">睡觉的拉车人</figcaption>
+</figure>
+
+<p>
+很巧的是在回Blue Mountain Homestay遇到了之前在停机的时候遇到的美国外教（玉兰）和她的朋友，以及那个当地的尼泊尔男人（赛俊杰）。玉兰说她在转机的时候听了我住宿的地方觉得不错也在Blue Mountain Homestay住下了，俊杰于是就说请我们一起喝一下当地的酒。玉兰姐和俊杰的中文都巨好，和他们的谈话真的很有意思。
+</p>
+
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc007.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">玉兰姐和她的朋友</figcaption>
+</figure>
+
+
+<!-- EXTRA INFO -->
+<div style="font-size: 14px;">
+<p>
+Placeholder text by <a> <strong>YILING YIN</strong></a>.
+Photography by <a><strong>YILING YIN</strong></a>.
+</p>
+
+<p>
+If you enjoy my stories, please subscribe to my travel blog by entering your email below and clicking the subscribe button.
+</p>
+<p>
+如果您喜欢我的故事，请在下方输入您的电子邮件并点击订阅按钮，订阅我的旅行博客 ⬇️
+</p>
+</div>

@@ -106,13 +106,6 @@ comments: false
 
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc008.jpg" alt="alt text" width="680px" height="420px">
-  <figcaption style="font-size: 14px; color: gray;">登山证检查指示牌</figcaption>
-  </figure>
-</p>
-
-<p>
-<figure>
   <img src="{{ site.baseurl }}/img/journal/Nepal/pc009.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">Annapurna安纳普尔那保护区指示牌</figcaption>
   </figure>
@@ -237,15 +230,6 @@ comments: false
   <figcaption style="font-size: 14px; color: gray;">滑翔伞教练</figcaption>
   </figure>
 </p>
-<blockquote>
-<p>教练你把我拍成1米3真的好吗？？？亏我闲聊的时候还夸他很帅！</p>
-</blockquote>
-<p>
-<figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc024.jpg" alt="alt text" width="480px" height="320px">
-  <figcaption style="font-size: 14px; color: gray;">“1米3的我”</figcaption>
-  </figure>
-</p>
 <p>
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Nepal/pc025.jpg" alt="alt text" width="680px" height="420px">
@@ -281,7 +265,7 @@ comments: false
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Nepal/pc029.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">体能训练的尼泊尔男孩</figcaption>
-  </figure>
+</figure>
 </p>
 <blockquote>
 <p>之后就去买了到加德满都的大巴票，准备返回到加德满都，结束了徒步的日程，但也准备开启在尼泊尔高中做志愿者的日程了。</p>
