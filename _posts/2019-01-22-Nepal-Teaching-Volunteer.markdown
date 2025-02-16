@@ -148,6 +148,20 @@ comments: false
 
 <p>
 <figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc023.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">节日签字白板</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc022.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">尼泊尔节日仪式</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
   <img src="{{ site.baseurl }}/img/journal/Nepal/tpc013.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">参加节日的女孩们1</figcaption>
 </figure>
@@ -188,6 +202,32 @@ comments: false
 </figure>
 </p>
 
+<blockquote>
+<p>
+到此，也就结束了我在 Bagh Bhairab Boarding High School 的志愿工作了。Bikram先生邀请我去他母亲家做客，然后又去参加了一个有意思的聚会，坐在地上尝试了手抓饭，不得不说还是和我的中国胃有点冲突😂。Bikram先生一家对我很好，和他女儿一起度过了很有意思的一段时间。
+</p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc021.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">Bikram先生和他的妻子</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc024.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">聚会上Bikram先生一家</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc025.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">尼泊尔当地手抓饭</figcaption>
+</figure>
+</p>
 
 
 
