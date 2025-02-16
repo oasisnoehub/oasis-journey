@@ -75,7 +75,7 @@ comments: false
 
 <blockquote>
 <p>
-喝完酒后，大家互相道别，我和玉兰姐就一起回到Homestay，互道晚安就休息了。第二天我就联系了志愿者负责人Bikram先生，Bikram先生是当地一个大学的老师，同时也是Bagh Bhairab Boarding High School 的 Director。于是Bikram先生骑着摩托车带我到了他家安顿下来，在做志愿者老师的期间我都寄宿在Bikram先生家。
+喝完酒后，大家互相道别，我和玉兰姐就一起回到Homestay，互道晚安就休息了。第二天我就联系了志愿者负责人Bikram先生，Bikram先生是当地一个大学的老师，同时也是 Bagh Bhairab Boarding High School 的 Director。于是Bikram先生骑着摩托车带我到了他家安顿下来，在做志愿者老师的期间我都寄宿在Bikram先生家。
 </p>
 </blockquote>
 
@@ -83,6 +83,108 @@ comments: false
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Nepal/tpc008.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">Bikram先生家阳台夜景</figcaption>
+</figure>
+</p>
+
+<blockquote>
+<p>
+接着第二天Bikram先生就带我到 Bagh Bhairab Boarding High School 开始安排志愿者的教学工作，我接手的一周教学工作Class 3 到 Class 6 的学生都有，但是主要针对的是Class3-4的学生们，主要内容是中文教学+游戏的形式，当然我也买了许多零食奖励学生们。 每天早上学生们都要集会，唱他们的国歌，然后再开始每天的教学课程。
+</p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc009.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">学校早上集会</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc010.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">学校早上集会</figcaption>
+</figure>
+</p>
+
+<blockquote>
+<p>
+我给学生们介绍来我叫什么，来自哪里，然后请他们介绍他们自己。感觉自己的教学课程安排太过随意，基本都在和学生玩中文游戏，anyway开心就行😂。遇到很多很可爱的学生，有些写信给我，有些邀请我到她们家去拜访，有些说要送我礼物，有些把我介绍给他们的父母。
+</p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc011.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">学生的自我介绍</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc012.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">课堂上</figcaption>
+</figure>
+</p>
+
+<blockquote>
+<p>
+不想太过感性，但是有些时候看着她们给我写的信，仍然会因为人与人之前产生这种不可思议的连接而感到温暖。
+</p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc019.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">来自学生的信</figcaption>
+</figure>
+</p>
+
+
+<blockquote>
+<p>
+为期一周教学日的倒数最后一天，刚好是尼泊尔的一个节日。这天学生们放假，但是也会来学校参加作品展示和仪式。他们的作品很多样，也很充满创意，体现了包括但不限于地理、生物方面的科学知识。
+</p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc013.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">参加节日的女孩们1</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc020.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">参加节日的女孩们2</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc014.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">学生们的作品集1</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc015.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">学生们的作品集2</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc016.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">学生们的作品集3</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Nepal/tpc018.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">学生们的作品集4</figcaption>
 </figure>
 </p>
 
