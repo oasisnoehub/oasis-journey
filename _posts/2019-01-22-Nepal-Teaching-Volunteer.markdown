@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Teaching Volunteer Experience in Kathmandu 在加德满都的教师志愿者日常"
+title:      "Teaching Volunteer Experience in Kathmandu 加德满都教学志愿者经历"
 subtitle:   "Teaching Volunteer"
 active: journal
 image:
@@ -14,7 +14,7 @@ comments: false
 
 <p  style="color: white;" ><strong> Timeline 时间：2019-01-24 ~ 2022-02-03 </strong><br>
 <strong>Place 地点: Kathmandu, Nepal 加德满都,尼泊尔 </strong><br>
-<strong>Hotel 住宿: Bikram先生家 </strong><br>
+<strong>Hotel 住宿: Blue Mountain Homestay ｜ Bikram先生家 </strong><br>
 
 <blockquote>
 <p>结束博卡拉之行后，我乘大巴返回加德满都，徒步之旅告一段落，同时也迎来了在尼泊尔高中担任志愿者的新日程。回到加德满都后，我依然住在Blue Mountain Homestay。这座城市的每一天都充满了趣味，处处弥漫着历史与宗教文化的厚重气息。古老的寺庙、宫殿，以及熙熙攘攘的市场，无一不让人感受到浓厚的宗教氛围和独特的魅力。
