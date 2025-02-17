@@ -211,6 +211,13 @@ comments: false
 </blockquote>
 
 <p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc021.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">红灯区街</figcaption>
+</figure>
+</p>
+
+<p>
 <video width="680" height="420" controls>
   <source src="{{ site.baseurl }}/img/journal/Thailand/video002.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -218,6 +225,11 @@ comments: false
 <figcaption style="font-size: 14px; color: gray;">微醺后与表姐们漫步在街道上</figcaption>
 </p>
 
+<blockquote>
+<p>
+接下来的行程就准备转场去芭提雅了。
+</p>
+</blockquote>
 
 
 <!-- EXTRA INFO -->
