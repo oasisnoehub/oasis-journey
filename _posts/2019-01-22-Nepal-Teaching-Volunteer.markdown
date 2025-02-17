@@ -27,7 +27,6 @@ comments: false
   <figcaption style="font-size: 14px; color: gray;">当地市场</figcaption>
 </figure>
 </p>
-
 <p>
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Nepal/tpc002.jpg" alt="alt text" width="680px" height="420px">

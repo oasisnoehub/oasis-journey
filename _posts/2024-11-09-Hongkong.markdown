@@ -11,7 +11,6 @@ tags: [Travel,Life]
 categories: [Hongkong]
 comments: false
 ---
-<div class="crossnote markdown-preview  ">
 <h1 id="incomplete-travel-guide--journal">Incomplete Travel Guide &amp; Journal </h1>
 <h2 id="itinerary-行程">Itinerary 行程 </h2>
 <h2 id="incomplete-travel-guide-不完全旅游攻略">Incomplete Travel Guide 不完全旅游攻略 </h2>
@@ -131,8 +130,6 @@ comments: false
   “我旅行是因为喜欢到处走动，我享受旅行给我的自由感觉，我很高兴摆脱羁绊，责任和义务，我喜爱未知事物，我结识一些奇人，他们给我片刻欢愉，我时常腻烦我自己，以为借助旅行可以丰富个性，让我略有改观，我旅行一趟，回来的时候不会依然故我”<br>
   -- 毛姆</p>
 </blockquote>
-
-</div>
 
 <!-- EXTRA INFO -->
 <div style="font-size: 14px;">
