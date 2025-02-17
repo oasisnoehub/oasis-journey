@@ -190,7 +190,6 @@ comments: false
 </blockquote>
 
 
-
 <blockquote>
 <p>
 晚上，我们找到了一家位于曼谷的gay bar（The Stranger），打算去体验一下。不过，表姐们对此并不感兴趣（毕竟她们是stright），于是我一个人去了。这家酒吧的氛围非常棒，灯光迷幻，音乐节奏感十足，充满了自由和包容的气息。我点了一杯鸡尾酒，名字已经记不清了。站在楼梯口边，我一边喝着酒，一边等待表演开始。这里的表演是以“drag queen”（变装皇后）为主题的演出，演员们妆容华丽、服装夸张，表演充满了戏剧性和艺术感，让人充满新鲜感。
@@ -199,13 +198,17 @@ comments: false
 
 <p>
 <video width="680" height="420" controls>
-  <source src="{{ site.baseurl }}/video/journal/Thailand/video001.mp4" type="video/mp4">
+  <source src="{{ site.baseurl }}/img/journal/Thailand/video001.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <figcaption style="font-size: 14px; color: gray;">The Stranger drag queen</figcaption>
 </p>
 
-
+<blockquote>
+<p>
+看完表演，喝完酒后，我有点微醺，姐姐们也过来陪我一起回住宿的地方了。很享受这一刻，也真的很喜欢泰国的夏天。
+</p>
+</blockquote>
 
 
 
