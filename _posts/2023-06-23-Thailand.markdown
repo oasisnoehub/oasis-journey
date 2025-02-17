@@ -142,11 +142,48 @@ comments: false
 <p>接下来的行程安排是曼谷的经典景点——大皇宫与郑王庙（Wat Arun），亲眼所见的实物感真的比照片上还要震撼。</p>
 </blockquote>
 
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc017.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">大皇宫内1</figcaption>
+</figure>
+</p>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc016.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">大皇宫内2</figcaption>
+</figure>
+</p>
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc018.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">大皇宫内3</figcaption>
+</figure>
+</p>
+
 <blockquote>
 <p><strong>补充介绍：</strong></p>
 <p>
 <strong>大皇宫（Grand Palace）</strong>：建于1782年的大皇宫，是泰国历代王室的居所，也是泰国建筑艺术的瑰宝。它融合了泰式、欧洲和中式风格，金碧辉煌，气势恢宏。其中最引人注目的是玉佛寺（Wat Phra Kaew），这里供奉着泰国最神圣的玉佛。
 </p>
+</blockquote>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc020.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">郑王庙</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+  <img src="{{ site.baseurl }}/img/journal/Thailand/pc019.jpg" alt="alt text" width="680px" height="420px">
+  <figcaption style="font-size: 14px; color: gray;">郑王庙下</figcaption>
+</figure>
+</p>
+
+<blockquote>
+<p><strong>补充介绍：</strong></p>
 <p>
 <strong>郑王庙（Wat Arun）</strong>：也被称为“黎明寺”，是曼谷最具标志性的寺庙之一。它的历史可以追溯到泰国的大城王朝时期，后来在拉玛二世时期进行了大规模重建。寺庙的名字“黎明”来源于印度黎明之神阿鲁纳（Aruna），象征着希望与新生。郑王庙最引人注目的是它高耸的中央塔楼，表面镶嵌着无数彩色陶瓷片，在阳光下熠熠生辉。这座寺庙不仅是一座宗教建筑，更是泰国历史与文化的象征。
 </p>
@@ -154,9 +191,19 @@ comments: false
 
 
 
+<blockquote>
+<p>
+晚上，我们找到了一家位于曼谷的gay bar（The Stranger），打算去体验一下。不过，表姐们对此并不感兴趣（毕竟她们是stright），于是我一个人去了。这家酒吧的氛围非常棒，灯光迷幻，音乐节奏感十足，充满了自由和包容的气息。我点了一杯鸡尾酒，名字已经记不清了。站在楼梯口边，我一边喝着酒，一边等待表演开始。这里的表演是以“drag queen”（变装皇后）为主题的演出，演员们妆容华丽、服装夸张，表演充满了戏剧性和艺术感，让人充满新鲜感。
+</p>
+</blockquote>
 
-
-
+<p>
+<video width="680" height="420" controls>
+  <source src="{{ site.baseurl }}/video/journal/Thailand/video001.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<figcaption style="font-size: 14px; color: gray;">The Stranger drag queen</figcaption>
+</p>
 
 
 
