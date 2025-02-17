@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Active Volcano 活火山🌋"
+title:      "Volcano 火山🌋 - Malaysia - Indonesia"
 subtitle:   "Mount Bromo & Semeru"
 active: journal
 image:
@@ -59,14 +59,68 @@ comments: false
 <blockquote>
 <p>ME：7:00am 到吉隆坡机场，背包转机什么之类的会方便很多，下飞机后，如果没有换MYR，就直接到Money Exchange换钱，建议刚落地出海关之后，走出去两家汇率会好一点，第一家汇率真的很不划算坑（别问我为什么知道😊），根据路上的指示牌到 KLIA Terminal 2 的 Car Rent &amp; Bus 的地方，买大巴票到市中心KL City Centre (Puduraya) (RM 15/person), 路程1.30hr左右（ps: 关于换钱当然也可以在国内换好）。大巴环境很适合睡觉，所以睡了一路💤。</p>
 </blockquote>
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc018.jpg" alt="Me during the trip" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">刚下飞机</figcaption>
+</figure>
+</p>
+
 <blockquote>
-<p>开始吉隆坡一日City Walk，很多Must-to-go的地方都在 KL City Centre 附近, 可以根据自己行程安排选几个地点走走。选择了艺术区、马来西亚国家博物馆和中国城，感受就是中国城不太值得逛，逛了之后也就终于明白了大家说中国人爱坑中国人的出处了，总之就是体验不太好。马来西亚国家博物馆不错(RM 5/person)，博物馆有几个Sections，包括世界板块如何形成、智人演化、马来西亚经历英国荷兰殖民史、马来西亚自身独立史、其文化如何受到中国、阿拉伯等其他文化的影响等，值得一看。⚠️ 需要注意的是博物馆的开放闭馆时间。从China Town的地铁站（忘记叫什么名字了：）做MRL线到 KL Sentral，然后再转 KLIA Transit 线再走一小段路10分钟就到晚上的青旅了，花费 RM 22/person。提前预定青旅的时候，还没发现在厦门大学马来西亚校区附近，之后发现走路10多分钟就可以去看看，办理入住之后就休整了一下。第二天早上散步10多分钟去厦门大学马来西亚校区参观了一下（到门口给保安说说，然后登记一下就可以进去参观看看）。青旅周围有挺多吃的小店，还有夜市，味道还行。每次出行我都会尝试本地特色菜，虽然时常踩雷，笑死，但这不也是旅行的乐趣吗？然后就办理退宿，去 KLIA Terminal 2 转机到 印度利西亚的Surabaya。同样走不到10min左右到地铁站坐 KLIA Transit 线到 KLIA T2 航站楼，接下来剩余的旅程了。</p>
+<p>开始吉隆坡一日City Walk，很多Must-to-go的地方都在 KL City Centre 附近, 可以根据自己行程安排选几个地点走走。选择了艺术区、马来西亚国家博物馆和中国城，感受就是中国城不太值得逛。马来西亚国家博物馆不错(RM 5/person)，博物馆有几个Sections，包括世界板块如何形成、智人演化、马来西亚经历英国荷兰殖民史、马来西亚自身独立史、其文化如何受到中国、阿拉伯等其他文化的影响等，值得一看。⚠️ 需要注意的是博物馆的开放闭馆时间。</p>
 </blockquote>
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc019.jpg" alt="Me during the trip" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">马来西亚国家博物馆</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc020.jpg" alt="Me during the trip" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">我在马来西亚国家博物馆后门</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc021.jpg" alt="Me during the trip" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">艺术区的画</figcaption>
+</figure>
+</p>
+
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc023.jpg" alt="Me during the trip" width="680px" height="420px">
+<figcaption style="font-size: 14px; color: gray;">准备寄出的明信片</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc022.jpg" alt="Me during the trip" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">我和妹在路途上</figcaption>
+</figure>
+</p>
+
+
+<blockquote>
+<p>从China Town的地铁站（忘记叫什么名字了：）做MRL线到 KL Sentral，然后再转 KLIA Transit 线再走一小段路10分钟就到晚上的青旅了，花费 RM 22/person。提前预定青旅的时候，还没发现在厦门大学马来西亚校区附近，之后发现走路10多分钟就可以去看看，办理入住之后就休整了一下。第二天早上散步10多分钟去厦门大学马来西亚校区参观了一下（到门口给保安说说，然后登记一下就可以进去参观看看）。青旅周围有挺多吃的小店，还有夜市，味道还行。每次出行我都会尝试本地特色菜，虽然时常踩雷，笑死，但这不也是旅行的乐趣吗？然后就办理退宿，去 KLIA Terminal 2 转机到 印度利西亚的Surabaya。同样走不到10min左右到地铁站坐 KLIA Transit 线到 KLIA T2 航站楼，接下来剩余的旅程了。</p>
+</blockquote>
+
+
+
 <p>
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Indonesia/pc001.jpg" alt="Me during the trip" width="560px" height="680px">
 <figcaption style="font-size: 14px; color: gray;">旅途中</figcaption>
-</figure></p>
+</figure>
+</p>
+
 <blockquote>
 <p>BTW: 在路上看完《全世界给我勇气》这本书留在了The Good Travelers Hostel的书架上，如果有谁去了的话说不定还能看到 ：）这本书讲述的是作者在印度的所见所闻。喜欢《全世界给我勇气》这本书中的一段话👇</p>
 </blockquote>
