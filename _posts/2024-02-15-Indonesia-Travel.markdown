@@ -81,7 +81,7 @@ comments: false
 <p>
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Indonesia/pc020.jpg" alt="Me during the trip" width="560px" height="680px">
-<figcaption style="font-size: 14px; color: gray;">我在马来西亚国家博物馆后门</figcaption>
+<figcaption style="font-size: 14px; color: gray;">马来西亚国家博物馆后门</figcaption>
 </figure>
 </p>
 
@@ -103,16 +103,13 @@ comments: false
 <p>
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Indonesia/pc022.jpg" alt="Me during the trip" width="560px" height="680px">
-<figcaption style="font-size: 14px; color: gray;">我和妹在路途上</figcaption>
+<figcaption style="font-size: 14px; color: gray;">我和妹</figcaption>
 </figure>
 </p>
-
 
 <blockquote>
 <p>从China Town的地铁站（忘记叫什么名字了：）做MRL线到 KL Sentral，然后再转 KLIA Transit 线再走一小段路10分钟就到晚上的青旅了，花费 RM 22/person。提前预定青旅的时候，还没发现在厦门大学马来西亚校区附近，之后发现走路10多分钟就可以去看看，办理入住之后就休整了一下。第二天早上散步10多分钟去厦门大学马来西亚校区参观了一下（到门口给保安说说，然后登记一下就可以进去参观看看）。青旅周围有挺多吃的小店，还有夜市，味道还行。每次出行我都会尝试本地特色菜，虽然时常踩雷，笑死，但这不也是旅行的乐趣吗？然后就办理退宿，去 KLIA Terminal 2 转机到 印度利西亚的Surabaya。同样走不到10min左右到地铁站坐 KLIA Transit 线到 KLIA T2 航站楼，接下来剩余的旅程了。</p>
 </blockquote>
-
-
 
 <p>
 <figure>
