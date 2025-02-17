@@ -6,7 +6,7 @@ active: journal
 image:
   feature: ""
 date:       2025-01-27
-header-img: "img/postcover/pc012.jpg"
+header-img: "img/postcover/pc015.jpg"
 tags: [Travel,Life]
 categories: [Hongkong]
 comments: false
@@ -24,14 +24,10 @@ comments: false
 <strong>Visa 签证: UK VISA （VFS Global Beijing 递签 2年多次）</strong><br>
 
 
-<p>因为朋友拍的一张圣保罗大教堂的照片，毅然决然的申请英国签证来英国看看。</p>
+<p>因为朋友拍的一张圣保罗大教堂的照片，毅然决然的申请英国签证来英国看看。申请的两年多次旅游签证，朋友提供了邀请信，然后全程自己DIY申请英国签证，非常幸运的是一次过签。于是就买机票准备利用春节假期到英国旅行。</p>
 
-<p>
-<figure>
-<img src="{{ site.baseurl }}/img/journal/Hongkong/pc001.jpg" alt="Airpot Boarding Time" width="420px" height="560px">
-<figcaption style="font-size: 14px; color: gray;">首都机场候机厅登机电子公告牌</figcaption>
-</figure>
-</p>
+
+
 
 <blockquote>
   <p style="color: white;" ><strong>STORY END.</strong><br>
