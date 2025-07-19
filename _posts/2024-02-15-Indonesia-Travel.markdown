@@ -189,7 +189,7 @@ comments: false
 
 <blockquote>
   <p style="color: white;" ><strong>DAY03</strong><br>
-  <!-- <strong>Hotel : ijen backpacker（Banyuwangi）</strong></p> -->
+  <strong>Hotel : ijen backpacker（Banyuwangi）</strong></p>
 </blockquote>
 
 <blockquote>
