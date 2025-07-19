@@ -42,7 +42,7 @@ comments: false
 <h1 id="incomplete-travel-guide--journal">Incomplete Travel Guide &amp; Journal </h1>
 <h2 id="itinerary-行程">Itinerary 行程 </h2>
 <div class="mermaid">
-<img src="{{ site.baseurl }}/img/journal/Indonesia/Itinerary.jpg" alt="alt text"><br>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/Itinerary.jpg" alt="alt text" width="680px" height="480px"><br>
 </div>
 <h2 id="incomplete-travel-guide-不完全旅游攻略">Incomplete Travel Guide 不完全旅游攻略 </h2>
 <p style="color: white;">｜ 软件: 住宿（Agoda,Booking）: 交通(Grab+地铁+摩托) ｜<br>
@@ -50,7 +50,7 @@ comments: false
 <blockquote>
 <p  style="color: white;" ><strong>DAY01</strong><br>
 <strong>Airport : Lapangan Terbang Antarabangsa Kuala Lumpur  吉隆坡国际机场</strong><br>
-<strong>Hotel : The Good Travelers Hostel - KL Airport</strong><br>
+<!-- <strong>Hotel : The Good Travelers Hostel - KL Airport</strong><br> -->
 <strong>Visa: 中国免签</strong><br>
 <strong>MDAC: 需要官网填写（提前填写打印 或者 出海关的时候现场填）</strong><br>
 <strong>MDAC填写地址：<a href="https://imigresen-online.imi.gov.my/mdac/register">https://imigresen-online.imi.gov.my/mdac/register</a></strong><br>
@@ -108,9 +108,9 @@ comments: false
 </figure>
 </p> -->
 
-<blockquote>
+<!-- <blockquote>
 <p>从China Town的地铁站（忘记叫什么名字了：）做MRL线到 KL Sentral，然后再转 KLIA Transit 线再走一小段路10分钟就到晚上的青旅了，花费 RM 22/person。提前预定青旅的时候，还没发现在厦门大学马来西亚校区附近，之后发现走路10多分钟就可以去看看，办理入住之后就休整了一下。第二天早上散步10多分钟去厦门大学马来西亚校区参观了一下（到门口给保安说说，然后登记一下就可以进去参观看看）。青旅周围有挺多吃的小店，还有夜市，味道还行。每次出行我都会尝试本地特色菜，虽然时常踩雷，笑死，但这不也是旅行的乐趣吗？然后就办理退宿，去 KLIA Terminal 2 转机到 印度利西亚的Surabaya。同样走不到10min左右到地铁站坐 KLIA Transit 线到 KLIA T2 航站楼，接下来剩余的旅程了。</p>
-</blockquote>
+</blockquote> -->
 
 <p>
 <figure>
@@ -128,7 +128,7 @@ comments: false
 <blockquote>
 <p style="color: white;" ><strong>DAY02</strong><br>
 <strong>Airport : Juanda International Airport - Terminal 2 International Flight  朱安达国际机场 T2</strong><br>
-<strong>Hotel : 无计划（随便找的不推荐）</strong><br>
+<!-- <strong>Hotel : 无计划（随便找的不推荐）</strong><br> -->
 <strong>Visa: visa-on-arrival 落地签 （$35/person）</strong></p>
 </blockquote>
 <blockquote>
