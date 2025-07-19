@@ -148,7 +148,7 @@ comments: false
     <h1 id="incomplete-travel-guide--journal">Incomplete Travel Guide &amp; Journal </h1>
     <h2 id="itinerary-行程">Itinerary 行程 </h2>
     <div class="mermaid">
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/Itinerary.jpg" alt="行程图" loading="lazy"><br>
+      <img src="https://oasisnoehub.github.io/oasis-journey/img/journal/Indonesia/Itinerary.jpg" alt="行程图" loading="lazy"><br>
     </div>
     <h2 id="incomplete-travel-guide-不完全旅游攻略">Incomplete Travel Guide 不完全旅游攻略 </h2>
     <p style="color: inherit; opacity: 0.8;">｜ 软件: 住宿（Agoda,Booking）: 交通(Grab+地铁+摩托) ｜<br>
