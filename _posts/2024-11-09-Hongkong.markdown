@@ -16,7 +16,7 @@ comments: false
 <h2 id="incomplete-travel-guide-不完全旅游攻略">Incomplete Travel Guide 不完全旅游攻略 </h2>
 <p style="color: white;">
  | 航司:国泰航空 Cathay Pacific (真的巨推荐！) <br>
- | 借宿: 朋友家借宿 <br>
+ <!-- | 借宿: 朋友家借宿 <br> -->
  | 交通: 飞机+公交+地铁 <br>
  | 免责声明：根据自身情况选择预定软件和住宿地址</p>
 
@@ -75,7 +75,7 @@ comments: false
 </figure>
 </p>
 
-<p>逛了逛之后回朋友家休息了。香港果然寸土寸金，虽然房间很小，但是租金价格真的高的离谱，东西的价格也是相较于大陆来说高。为什么大家还想来香港呢？确实引人思考。</p>
+<p>逛了逛之后回朋友家休息了。</p>
 <p>第二天周六，朋友还有课。于是假装港大人的一天就开始了。觉得挺有意思的，能逃离现在的身份，作为另一种身份生活的机会，确实让我很兴奋。在无法改变现在的生活状态的时候，考虑慢慢尝试自己想要的生活。坐在朋友旁听了朋友上的全英授课。大概讲的就是计算机处理器编译操作、动态规划之类的东西。</p>
 
 <figure>
@@ -96,31 +96,31 @@ comments: false
 <figcaption style="font-size: 14px; color: gray;">Hongkong University</figcaption>
 </figure>
 
-<figure>
+<!-- <figure>
 <img src="{{ site.baseurl }}/img/journal/Hongkong/pc011.jpg" alt="Friend(Shuyi) with Me" width="420px" height="560px">
 <figcaption style="font-size: 14px; color: gray;">Friend(Shuyi) with Me</figcaption>
-</figure>
+</figure> -->
 
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Hongkong/pc009.jpg" alt="Hongkong University Library" width="420px" height="560px">
 <figcaption style="font-size: 14px; color: gray;">Hongkong University Library</figcaption>
 </figure>
 
-<p>然后就去Victoria Peak (The Peak)开始Hiking了，虽然小hiking但是风景却不输其他徒步线，毕竟这里能看到维多利亚港口以及整个港口风景。夜晚的香港真的富贵迷人眼，但是也让人产生一种巨大的割裂感。</p>
+<p>然后就去Victoria Peak (The Peak)开始Hiking了，虽然小hiking但是风景却不输其他徒步线，毕竟这里能看到维多利亚港口以及整个港口风景。</p>
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Hongkong/pc010.jpg" alt="Victoria Peak (The Peak)" width="420px" height="560px">
 <figcaption style="font-size: 14px; color: gray;">Victoria Peak (The Peak)</figcaption>
 </figure>
 
-<figure>
+<!-- <figure>
 <img src="{{ site.baseurl }}/img/journal/Hongkong/pc013.jpg" alt="Me at Victoria Peak (The Peak)" width="420px" height="560px">
 <figcaption style="font-size: 14px; color: gray;">Me at Victoria Peak (The Peak)</figcaption>
-</figure>
+</figure> -->
 
-<figure>
+<!-- <figure>
 <img src="{{ site.baseurl }}/img/journal/Hongkong/pc014.jpg" alt="Hongkong Night" width="420px" height="560px">
 <figcaption style="font-size: 14px; color: gray;">Hongkong Night</figcaption>
-</figure>
+</figure> -->
 
 
 <p>Anyway, do what you will and then you will find your path.</p>

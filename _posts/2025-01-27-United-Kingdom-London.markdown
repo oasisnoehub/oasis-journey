@@ -15,7 +15,7 @@ comments: false
 <h1 id="incomplete-travel-guide--journal">Incomplete Travel Guide &amp; Journal </h1>
 <h2 id="itinerary-行程">Itinerary 行程 </h2>
 <p style="color: white;">
- | 借宿: 朋友家借宿 <br>
+ <!-- | 借宿: 朋友家借宿 <br> -->
  | 交通: 飞机+公交+地铁 <br>
  | 免责声明：根据自身情况选择预定软件和住宿地址</p>
 
