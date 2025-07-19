@@ -1,9 +1,9 @@
 # OASISNOE J
 ----------
 Hey, everyone! 😊
-I’ve written a blog about my travels, and I’d love to share my adventures with you!
+I’ve written some blogs about my journey, and I’d love to share my adventures with you!
 
-If you enjoy my stories, feel free to hit the subscribe button. I’m excited to connect with you soon.
+If you enjoy my stories, feel free to hit the subscribe button. 
 
 Check out my blog here:
 https://oasisnoehub.github.io/oasis-journey/journal/
@@ -33,5 +33,7 @@ npm install
 **Run the App**
 ```code
  streamlit run almstream_app.py
+
+ jekyll serve # start the server locally
 ```
 
