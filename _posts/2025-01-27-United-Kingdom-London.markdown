@@ -20,7 +20,7 @@ comments: false
  | 免责声明：根据自身情况选择预定软件和住宿地址</p>
 
 <strong>Airport : Beijing Capital International Airport 北京首都国际机场</strong><br>
-<strong>Accomdation 住宿: A friend of mine</strong><br>
+<!-- <strong>Accomdation 住宿: A friend of mine</strong><br> -->
 <strong>Visa 签证: UK VISA （VFS Global Beijing 递签 2年多次）</strong><br>
 
 

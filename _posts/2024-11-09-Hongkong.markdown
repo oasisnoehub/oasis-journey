@@ -22,7 +22,7 @@ comments: false
 
 <p  style="color: white;" ><strong>2024-11-08 DAY01</strong><br>
 <strong>Airport : Beijing Capital International Airport 北京首都国际机场</strong><br>
-<strong>Accomdation : A friend of mine</strong><br>
+<!-- <strong>Accomdation : A friend of mine</strong><br> -->
 <strong>Visa: 港澳通行证 （大陆居民）</strong><br>
 <strong>To Hongkong: Airport Train (Express) </strong><br>
 <strong>

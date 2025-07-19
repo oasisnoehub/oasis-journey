@@ -20,7 +20,7 @@ comments: false
 
 <p  style="color: white;" ><strong>2024-09-15 DAY01</strong><br>
 <strong>Airport : Incheon International Airport(South Korea) 仁川国际机场</strong><br>
-<strong>Hotel : Seoul Cube Hostel </strong><br>
+<!-- <strong>Hotel : Seoul Cube Hostel </strong><br> -->
 <strong>Visa: C3-9 （按需申请签证类型）</strong><br>
 <strong>To Seoul: Airport Train (Express) 11000won</strong><br>
 <strong>注意：提前申请签证（申请完签证之后，需要打印电子签值机）</strong><br>
@@ -88,11 +88,11 @@ comments: false
 <figcaption style="font-size: 14px; color: gray;">明洞</figcaption>
 </figure>
 </p>
-<p>明洞街怎么说，就是商业一条街，出来逛吃逛喝，买东西也没有什么特别的东西，去emis、addidas、mlb之类的逛了逛，本来因为orm很想买emis的帽子，但是看了看质量真的还不如某多，相比之下mlb的帽子质感就好很多了，但是还是没有选择买，去买了addidas的定制长袖，这个算是买的让自己比较心仪的东西了，还给🐽妹买了一件作为礼物。</p>
+<p>明洞街怎么说，就是商业一条街，出来逛吃逛喝，买东西也没有什么特别的东西，去emis、addidas、mlb之类的逛了逛，本来很想买emis的帽子，但是看了看质量真的还不如某宝，相比之下mlb的帽子质感就好很多了，去买了addidas的定制长袖，这个算是买的让自己比较心仪的东西了。</p>
 
-<p>然后转场到汉南洞了，汉南洞的店确实装饰的蛮精致的，ins风满满。Mardi Mercredi和Emis在这边也有，去逛了逛，冲动消费了一件Mardi Mercredi的T恤，然后随意逛逛，太阳太大了🌞，真的逛到中暑🥵。后面走不动了就去Seoul Cube 青旅办入住了。</p>
+<p>然后转场到汉南洞了，汉南洞的店确实装饰的蛮精致的，ins风满满。Mardi Mercredi和Emis在这边也有，去逛了逛，买了一件Mardi Mercredi的T恤，然后随意逛逛，太阳太大了🌞，真的逛到中暑🥵。</p>
 
-<p>前台给拍了入住的一些信息和密码之类的东西，然后就收拾行李。和我一起办理的入住的白人女孩真的又高又好看，不知道是不是模特，是真的好高，在她面前突然觉得自己像个小孩，真的很强的压迫感。搞笑的是她收拾行李的时候，把手机落在房间里面，然后刚想进去，结果门锁了。她脸上的表情让我觉得可爱又好笑，然后她问我有没有密码，当然有哈哈哈哈。说真的以后一个人出去玩，住宿定青旅的体验感真的比酒店好很多。因为青旅中会遇到一些相似的人，会在遇到时候微笑点头，say hello, good morning 的默契。之后两天住酒店确实让我感觉，我可能还是更适合住青旅，因为我喜欢在旅途中与别人交流，不管是简单的打招呼hi，还是一些更深层次的deep conversation。Seoul Cube这家青旅体验感不错呢，设备齐全，梨泰院附近，周围有很多酒吧，餐厅，便利店以及各种店铺，比较推荐！</p>
+<p>去青旅前台给拍了入住的一些信息和密码之类的东西，然后就收拾行李。和我一起办理的入住的白人女孩真的又高又好看，不知道是不是模特，是真的好高，在她面前突然觉得自己像个小孩，真的很强的压迫感。搞笑的是她收拾行李的时候，把手机落在房间里面，然后刚想进去，结果门锁了。她脸上的表情让我觉得可爱又好笑，然后她问我有没有密码，当然有哈哈哈哈。说真的以后一个人出去玩，住宿定青旅的体验感真的比酒店好很多。因为青旅中会遇到一些相似的人，会在遇到时候微笑点头，say hello, good morning 的默契。之后两天住酒店确实让我感觉，我可能还是更适合住青旅，因为我喜欢在旅途中与别人交流，不管是简单的打招呼hi，还是一些更深层次的deep conversation。Seoul Cube这家青旅体验感不错呢，设备齐全，梨泰院附近，周围有很多酒吧，餐厅，便利店以及各种店铺，比较推荐！</p>
 
 <p>
 <figure>
@@ -103,7 +103,7 @@ comments: false
 
 <p>因为早上暴走，感觉是中暑了，所以晚上头剧痛，google map搜索了药店结果不是关门就是很远，然后顶着头痛找药，结果发现便利店就会卖一些基础的救急药，比如G25,7even之类的便利店。所以如果自己身体有什么不舒服，可以在便利店卖一些救急的药缓缓。吃了之后确实好很多，结果第二天也开始了暴走的一天</p>
 
-<p>第二天去的星空图书馆Starfield，吃了BR冰淇淋🍦，真的好好吃🤤。</p>
+<p>第二天去的星空图书馆Starfield，吃了BR冰淇淋🍦，是真的好好吃🤤。</p>
 
 <p>
 <figure>
@@ -112,12 +112,12 @@ comments: false
 </figure>
 </p>
 
-<p>
+<!-- <p>
 <figure>
 <img src="{{ site.baseurl }}/img/journal/Korea/pc008.jpg" alt="Seoul Cube Hotel" width="560px" height="680px">
 <figcaption style="font-size: 14px; color: gray;">星空图书馆</figcaption>
 </figure>
-</p>
+</p> -->
 
 <p>第二天去的星空图书馆Starfield，又吃了BR Baskin Robbins 冰淇淋🍦(每天吃一个！一口气吃了两！真的超级绝！)。</p>
 
@@ -152,8 +152,6 @@ comments: false
   “我旅行是因为喜欢到处走动，我享受旅行给我的自由感觉，我很高兴摆脱羁绊，责任和义务，我喜爱未知事物，我结识一些奇人，他们给我片刻欢愉，我时常腻烦我自己，以为借助旅行可以丰富个性，让我略有改观，我旅行一趟，回来的时候不会依然故我”<br>
   -- 毛姆</p>
 </blockquote>
-
-</div>
 
 <!-- EXTRA INFO -->
 <div style="font-size: 14px;">
