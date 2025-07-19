@@ -128,20 +128,204 @@ comments: false
 
     <p>Mount Bromo is a popular tourist destination in <strong> East Java, Indonesia </strong>, and it is part of the <strong> Bromo Tengger Semeru National Park </strong>. It is one of Indonesia's most active volcanoes. The last significant eruption of Mount Bromo occurred in 2016, and it is constantly monitored for volcanic activity.</p>
 
+<<<<<<< HEAD
     <p>
       布罗莫山是印尼爪哇岛东部的热门旅游目的地，是布罗莫特格山美鲁国家公园的一部分。它是印尼最活跃的火山之一。布罗莫山的最后一次重大喷发发生在2016年，并且其火山活动一直受到持续监测。
     </p>
+=======
+<p> Both Mount Bromo and Mount Semeru are located in  <strong> the Ring of Fire </strong>, a region in the Pacific Ocean basin where many earthquakes and volcanic eruptions occur. </p>
+<p>
+布罗莫山和梅鲁山都位于环太平洋火山带，在该地区发生许多地震和火山喷发。
+</p>
+</blockquote>
+<br>
+<div class="crossnote markdown-preview  ">
+      
+<h1 id="incomplete-travel-guide--journal">Incomplete Travel Guide &amp; Journal </h1>
+<h2 id="itinerary-行程">Itinerary 行程 </h2>
+<div class="mermaid">
+<img src="{{ site.baseurl }}/img/journal/Indonesia/Itinerary.jpg" alt="alt text"><br>
+</div>
+<h2 id="incomplete-travel-guide-不完全旅游攻略">Incomplete Travel Guide 不完全旅游攻略 </h2>
+<p style="color: white;">｜ 软件: 住宿（Agoda,Booking）: 交通(Grab+地铁+摩托) ｜<br>
+｜ 免责声明：根据自身情况选择预定软件和住宿地址｜</p>
+<blockquote>
+<p  style="color: white;" ><strong>DAY01</strong><br>
+<strong>Airport : Lapangan Terbang Antarabangsa Kuala Lumpur  吉隆坡国际机场</strong><br>
+<strong>Hotel : The Good Travelers Hostel - KL Airport</strong><br>
+<strong>Visa: 中国免签</strong><br>
+<strong>MDAC: 需要官网填写（提前填写打印 或者 出海关的时候现场填）</strong><br>
+<strong>MDAC填写地址：<a href="https://imigresen-online.imi.gov.my/mdac/register">https://imigresen-online.imi.gov.my/mdac/register</a></strong><br>
+注意：先注册然后用邮箱收到的注册码检查并下载pdf文件</p>
+</blockquote>
+<blockquote>
+<p>ME：7:00am 到吉隆坡机场，背包转机什么之类的会方便很多，下飞机后，如果没有换MYR，就直接到Money Exchange换钱，建议刚落地出海关之后，走出去两家汇率会好一点，第一家汇率真的很不划算坑（别问我为什么知道😊），根据路上的指示牌到 KLIA Terminal 2 的 Car Rent &amp; Bus 的地方，买大巴票到市中心KL City Centre (Puduraya) (RM 15/person), 路程1.30hr左右（ps: 关于换钱当然也可以在国内换好）。大巴环境很适合睡觉，所以睡了一路💤。</p>
+</blockquote>
+>>>>>>> parent of 9326d41 ([doc]: refinded articles.)
 
     <p><strong>Mount Semeru </strong>, also known as Mahameru, is the highest volcano on the island of Java, standing at 3,676 meters (12,060 feet) above sea level. It is one of Indonesia's most active volcanoes, and its eruptions are characterized by mild explosions and continuous gas emissions. The last significant eruption of Mount Semeru occurred in December 2021, sending volcanic ash high into the air and forcing thousands of people to evacuate their homes.</p>
     <p>
       梅鲁山，也被称为马哈梅鲁，是爪哇岛上海拔3,676米（12,060英尺）的最高火山。它是印尼最活跃的火山之一，其喷发以轻微爆炸和持续的气体排放为特点。梅鲁山的最后一次重大喷发发生在2021年12月，将火山灰高高喷入空中，迫使数千人撤离家园。
     </p>
 
+<<<<<<< HEAD
     <p> Both Mount Bromo and Mount Semeru are located in  <strong> the Ring of Fire </strong>, a region in the Pacific Ocean basin where many earthquakes and volcanic eruptions occur. </p>
     <p>
       布罗莫山和梅鲁山都位于环太平洋火山带，在该地区发生许多地震和火山喷发。
     </p>
   </blockquote>
+=======
+<blockquote>
+<p>开始吉隆坡一日City Walk，很多Must-to-go的地方都在 KL City Centre 附近, 可以根据自己行程安排选几个地点走走。选择了艺术区、马来西亚国家博物馆和中国城，感受就是中国城不太值得逛。马来西亚国家博物馆不错(RM 5/person)，博物馆有几个Sections，包括世界板块如何形成、智人演化、马来西亚经历英国荷兰殖民史、马来西亚自身独立史、其文化如何受到中国、阿拉伯等其他文化的影响等，值得一看。
+</br>⚠️ 需要注意的是博物馆的开放闭馆时间。</p>
+</blockquote>
+
+<!-- <p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc019.jpg" alt="Me during the trip" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">马来西亚国家博物馆</figcaption>
+</figure>
+</p> -->
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc020.jpg" alt="Me during the trip" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">马来西亚国家博物馆后门</figcaption>
+</figure>
+</p>
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc021.jpg" alt="Me during the trip" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">艺术区的画</figcaption>
+</figure>
+</p>
+
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc023.jpg" alt="Me during the trip" width="680px" height="420px">
+<figcaption style="font-size: 14px; color: gray;">准备寄出的明信片</figcaption>
+</figure>
+</p>
+
+<!-- <p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc022.jpg" alt="Me during the trip" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">我和妹</figcaption>
+</figure>
+</p> -->
+
+<blockquote>
+<p>从China Town的地铁站（忘记叫什么名字了：）做MRL线到 KL Sentral，然后再转 KLIA Transit 线再走一小段路10分钟就到晚上的青旅了，花费 RM 22/person。提前预定青旅的时候，还没发现在厦门大学马来西亚校区附近，之后发现走路10多分钟就可以去看看，办理入住之后就休整了一下。第二天早上散步10多分钟去厦门大学马来西亚校区参观了一下（到门口给保安说说，然后登记一下就可以进去参观看看）。青旅周围有挺多吃的小店，还有夜市，味道还行。每次出行我都会尝试本地特色菜，虽然时常踩雷，笑死，但这不也是旅行的乐趣吗？然后就办理退宿，去 KLIA Terminal 2 转机到 印度利西亚的Surabaya。同样走不到10min左右到地铁站坐 KLIA Transit 线到 KLIA T2 航站楼，接下来剩余的旅程了。</p>
+</blockquote>
+
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc001.jpg" alt="Me during the trip" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">旅途中</figcaption>
+</figure>
+</p>
+
+<blockquote>
+<p>BTW: 在路上看完《全世界给我勇气》这本书留在了The Good Travelers Hostel的书架上，如果有谁去了的话说不定还能看到 ：）这本书讲述的是作者在印度的所见所闻。喜欢《全世界给我勇气》这本书中的一段话👇</p>
+</blockquote>
+<blockquote>
+<p>“只不过，在旅行中，时间和空间都有了全新的面貌。一年的坐标不再只是四季，变成了纬度和海拔；一天的坐标不再只是24小时，变成了时区和时差；地图不再是一张纸，变成了一个立体的世界；那些在地图上的名字也不再是几个陌生的单词，变成了一个个停留的地方。”</p>
+</blockquote>
+<blockquote>
+<p style="color: white;" ><strong>DAY02</strong><br>
+<strong>Airport : Juanda International Airport - Terminal 2 International Flight  朱安达国际机场 T2</strong><br>
+<strong>Hotel : 无计划（随便找的不推荐）</strong><br>
+<strong>Visa: visa-on-arrival 落地签 （$35/person）</strong></p>
+</blockquote>
+<blockquote>
+<p>ME:到印度尼西亚落地签，准备好钱，然后把护照给办visa-on-arrival的工作人员就好，没问什么就直接给贴上visa-on-arrival的签证小票，出海关的时候用，出关的时候工作人员会简单的询问，比如返程信息之类的，把准备的机票返程住宿材料给工作人员看就好了。等待的时候有人说工作人员可能会要求给小费，反正我是没有遇到，顺利盖章。出SUB机场之前还得填一个电子信息表，出去就看到填表的机器，填写一些基本信息，打印出二维码小票，给关口工作人员扫描检查看看就可以顺利出关。</p>
+</blockquote>
+<blockquote>
+<p>11:00pm 到SUB机场。SUB机场好像只有一个Money Exchange的地方，出关就可以看到。汇率还算能接受，但是机场汇率高是公认的高。当时机场汇率美元兑印尼盾1:15000，简单换算人民币：印尼盾 1:2000。根据自身情况按需兑换。到机场太晚用Grab打车，机场会有很多司机招揽生意所以不用担心打不到车，但容易被坑（还是别问我为什么知道）。司机要价750k印尼盾，从SUB机场打车到Bromo火山村大概600k-700k，拼车的话一个人会便宜很多，所以尽量买早上到的航班吧，会方便一些。开车到火山村，进村要缴费100k/person，感觉又被坑。实在太疲惫了，不想计较了。之后到了火山村就休息了2hr就准备登山去观景台。</p>
+</blockquote>
+<blockquote>
+<p>3:00am 坐摩托到登山入口35k/person，坐在摩托车上，冷风吹的和北京冬天有得一拼🥶。3:30am 走到观景台，见到目前为止看到过最美的星空，就仿佛一幅巨大的3D星座图撒在面前，还时不时的划过几颗流星，是真的难以用相机记录眼前的震撼，只能努力把此刻的美景尽收眼底。足足等待了3hr多，大概 6:00am 左右太阳逐渐升起来的那一刻，才真的感受到National Geographic的照片变得立体起来。</p>
+</blockquote>
+<blockquote>
+<p>那一刻有没有听到 “地球心跳” 我不知道，但是我看到了。</p>
+</blockquote>
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc002.jpg" alt="alt text">
+<figcaption style="font-size: 14px; color: gray;">Mount Bromo &amp; Semeru</figcaption>
+</figure>
+</p>
+
+<blockquote>
+<p>看完日出后，可选择原路返回，或者继续往上面走另一条路线下山。我选择的远路返回，走路下火山村，其实没有多远，刚好边走边继续享受沿途的风景。</p>
+</blockquote>
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc003.jpg" alt="alt text" width="560px" height="680px">
+<figcaption style="font-size: 14px; color: gray;">迷雾森林悬崖</figcaption>
+</figure>
+</p>
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc004.jpg" alt="alt text" width="680px" height="420px"><br>
+<figcaption style="font-size: 14px; color: gray;">下山过程中</figcaption>
+</figure>
+</p>
+<blockquote>
+<p>7:00am 走到火山村口，随便到路边的一家店吃早餐，味道还不错，不过忘记店名了🤷。</p>
+</blockquote>
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc005.jpg" alt="alt text" width="680px" height="420px">
+<figcaption style="font-size: 14px; color: gray;">火山村口路边餐厅</figcaption>
+</figure>
+</p>
+<blockquote>
+<p>这边有司机揽客，到 Probolinggo（庞越）和 Banyuwangi（外南梦），因为假期不够所以就放弃到ijen火山的安排，直接去 Banyuwangi港口住宿，然后明天一早乘轮渡去Bali岛躺平 ：）。从Bromo火山村口直接到 Banyuwangi住宿的地方，司机要价300k/person。如果有ijen火山徒步的安排，也可以到 Banyuwangi 附近住宿，可以把包放在住宿的地方，减轻负重，徒步完ijen后，取行李，就可直接到港口坐轮渡到Bali岛。</p>
+</blockquote>
+<p>
+<figure>
+<img src="{{ site.baseurl }}/img/journal/Indonesia/pc006.jpg" alt="alt text">
+<figcaption style="font-size: 14px; color: gray;">行程路线</figcaption>
+</figure>
+</p>
+<blockquote>
+<p>所以会发现大部分时间都在车上，还是喜欢有时间慢慢体验沿途的风景，但是时间紧张也无可厚非，换一种思维，实际上也体验了一次沿海公路旅行，EAST JAVA真的就是一个巨大的野生动物保护区，一路上总能发现很多野生猴在公路边探望。</p>
+</blockquote>
+
+<blockquote>
+  <p style="color: white;" ><strong>DAY03</strong><br>
+  <strong>Hotel : ijen backpacker（Banyuwangi）</strong></p>
+</blockquote>
+
+<blockquote>
+  <p>准备以Banyuwangi为出发点，从East Java转换到接下来的Bali岛。</p>
+</blockquote>
+
+<p>
+  <figure>
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/balimap.jpg" alt="alt text" width="780px" height="480px">
+  <figcaption style="font-size: 14px; color: gray;">巴厘岛旅程路线</figcaption>
+  </figure>
+</p>
+
+
+<blockquote>
+  <p> ME: 4:00pm 到定的青旅ijen backpacker, 然后就办理入住，总体来说性价比挺高的 200k/room， 如果有计划去ijen徒步的话，这里也有提供去的服务，可以问问前台。ijen backpacker离Banyuwangi港口非常近，走路几分钟就到了，周围也有挺多小店，不用担心没有吃的或者日常东西的地方。</p>
+</blockquote>
+
+<p>
+  <figure>
+  <img src="{{ site.baseurl }}/img/journal/Indonesia/pc007.jpg" alt="alt text" width="560px" height="680px">
+  <figcaption style="font-size: 14px; color: gray;">ijen backpacker</figcaption>
+  </figure>
+</p>
+
+<blockquote>
+  <p style="color: white;" ><strong>DAY04</strong>
+>>>>>>> parent of 9326d41 ([doc]: refinded articles.)
   <br>
   <div class="crossnote markdown-preview">
         
