@@ -367,8 +367,8 @@ Photography by <a><strong>Rae YIN</strong></a>.
 <p>
 If you enjoyed my story, feel free to enter your email below and hit subscribe to be the first to receive more exciting travel updates and exclusive content!
 </p>
-<p>
+<!-- <p>
 如果您喜欢我的故事，欢迎在下方输入您的电子邮件并点击订阅，第一时间获取更多精彩的旅行分享与独家内容！ ⬇️
-</p>
+</p> -->
 </div>
 
