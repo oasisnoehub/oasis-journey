@@ -12,7 +12,6 @@ categories: [Indonesia]
 comments: false
 ---
 <h1>Introduction 介绍</h1>
-<blockquote>
 <p>
 <strong>Bromo-Tengger-Semeru National Park (Taman Nasional Bromo Tengger Semeru)</strong> is a national park in East Java. It is home to five volcanoes and a sand sea in the caldera of the ancient Tengger volcano, has a rugged, other-worldly landscape, and offers lots of hiking opportunities.[Cite:wikivoyage]
 </p>
