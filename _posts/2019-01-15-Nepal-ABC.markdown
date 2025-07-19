@@ -119,7 +119,7 @@ comments: false
 <blockquote>
 <p>背着大包走了一天，感觉肩膀都快不是自己的了。终于熬到晚上，拖着疲惫的身子进了半路上的一个小村子休整，结果——巨！冷！一路下着雨，衣服湿透不说，晚上住的地方居然只能靠炭火烤干衣服。看着那堆炭火，我都怀疑自己是不是进了烤肉店。  
 
-第二天醒来，衣服虽然干了，但一股子浓烈的焦炭味，活脱脱成了“行走的碳烤套餐”😂。没办法，硬着头皮吃完早饭继续出发，结果路上风景美得离谱，像是一幅幅巨大的油画，好像大自然在安慰我：昨天让你挨冻，今天赏点美景补偿一下！</p>
+第二天醒来，衣服虽然干了，但一股子浓烈的焦炭味，活脱脱成了“行走的碳烤套餐”😂。没办法，硬着头皮吃完早饭继续出发，结果路上风景美得离谱，像是一幅幅巨大的油画</p>
 </blockquote>
 <p>
 <figure>
@@ -156,7 +156,7 @@ comments: false
   </figure>
 </p>
 <blockquote>
-<p>站在 **View Top Hotel** 门口，抬头一看，安纳普尔纳峰和鱼尾峰就那么直愣愣地杵在眼前，气势十足，仿佛在说：“哟，没能徒步到终点，但还能看到我俩，不亏吧？”  不得不说，真的美得离谱！光是站着看都觉得像在拍明信片。虽然这次徒步因为雪崩被迫中断，但能在这儿吹着山风，看着这梦幻的风景，还是觉得值了。人生嘛，计划赶不上变化，意外总比惊喜先到，但有时候，意外也是另一种收获！</p>
+<p>站在 **View Top Hotel** 门口，抬头一看，安纳普尔纳峰和鱼尾峰就那么直愣愣地杵在眼前，“没能徒步到终点，但还能看到他们两个，不亏吧？”  不得不说，真的美得离谱！虽然这次徒步因为雪崩被迫中断，但能在这儿吹着山风，看着这梦幻的风景，还是觉得值了。人生嘛，计划赶不上变化，意外总比惊喜先到，但有时候，意外也是另一种收获！</p>
 </blockquote>
 <p>
 <figure>
@@ -171,7 +171,7 @@ comments: false
   </figure>
 </p>
 <blockquote>
-<p>计划被打乱后，也没啥好纠结的，干脆调整行程，直接返程去费瓦湖（Phewa Lake），顺便体验一下博卡拉性价比超高的滑翔伞🪂！毕竟，徒步没走完，但天上飞一飞总行吧？  下山后，一群越野车师傅早已在路口“守株待兔”，疯狂拉客。正好遇到几个同样下山的陌生人，大家一拍即合，直接拼车杀到费瓦湖。一路上虽然车开得飞起，但风景是真的巴适。到了湖边，第一件事当然是找住宿，把行李一扔，先睡个舒服觉，明天再去体验翱翔天际的刺激感！</p>
+<p>计划被打乱后，也没啥好纠结的，干脆调整行程，直接返程去费瓦湖（Phewa Lake），顺便体验一下博卡拉性价比超高的滑翔伞🪂！虽然，徒步没走完，但飞一飞总行吧？  下山后，一群越野车师傅早已在路口，疯狂拉客。正好遇到几个同样下山的陌生人，大家一拍即合，直接拼车杀到费瓦湖。一路上虽然车开得飞起，但风景是真的一绝。到了湖边，第一件事当然是找住宿，把行李一扔，先睡个舒服觉，明天再去体验翱翔天际的刺激感！</p>
 </blockquote>
 
 <p>
@@ -192,11 +192,11 @@ comments: false
 </p>
 
 <blockquote>
-<p>一路上逛遍了大大小小的滑翔伞店，开启砍价模式，问到后面感觉自己都快成“滑翔伞市场调研员”了😂。终于，功夫不负有心人，找到了一家愿意给我们最低价的，套餐还挺豪华——包含接送、全程录像拍照，还有专业教练带飞，性价比直接拉满！  敲定价格后，立刻预订，约好明天一早在这里集合坐车去滑翔点。</p>
+<p>一路上逛遍了大大小小的滑翔伞店，问到后面感觉自己都快成“滑翔伞市场调研员”了😂。终于，功夫不负有心人，找到了一家愿意给我们性价比还不错的滑翔店——包含接送、全程录像拍照，还有专业教练带飞，性价比直接拉满！  敲定价格后，立刻预订，约好明天一早在这里集合坐车去滑翔点。</p>
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc018.jpg" alt="alt text" width="480px" height="620px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc018.jpg" alt="alt text" width="480px" height="820px">
   <figcaption style="font-size: 14px; color: gray;">滑翔伞店</figcaption>
   </figure>
 </p>
@@ -213,12 +213,12 @@ comments: false
 <blockquote>
 <p>离开的时候在门口遇见奶奶一家，请我帮他们拍一张全家照，拍完之后奶奶邀请我和她们一起拍，当时我还有点害羞，畏手畏脚，但是奶奶挽着我，把我紧紧拉到她身边，于是一起融入到她的大家庭中，拍了一张“全家福”。所以有时爱来自意想不到的瞬间。</p>
 </blockquote>
-<p>
+<!-- <p>
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Nepal/pc020.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">陌生奶奶的全家福</figcaption>
   </figure>
-</p>
+</p> -->
 <blockquote>
 <p>第二天早上我起的很早，不知道为什么旅行的时候反而睡不着，于是清晨出来散步，可能想慢慢好好看看这些地方。</p>
 </blockquote>
@@ -231,18 +231,18 @@ comments: false
 <blockquote>
 <p>早餐吃得很慢，完全没有急着赶时间。吃完后，慢悠悠地坐上车，朝集合点出发。到了滑翔高地，眼前的景色简直惊艳——背后是连绵的雪山山脉，视野开阔，完全没得说，感觉自己瞬间融入了大自然。</p>
 </blockquote>
-<p>
+<!-- <p>
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Nepal/pc022.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">雪山山脉</figcaption>
   </figure>
-</p>
+</p> -->
 <blockquote>
 <p>这就是带我飞的滑翔伞教练</p>
 </blockquote>
 <p>
 <figure>
-  <img src="{{ site.baseurl }}/img/journal/Nepal/pc023.jpg" alt="alt text" width="680px" height="420px">
+  <img src="{{ site.baseurl }}/img/journal/Nepal/pc023.jpg" alt="alt text" width="680px" height="620px">
   <figcaption style="font-size: 14px; color: gray;">滑翔伞教练</figcaption>
   </figure>
 </p>
