@@ -226,7 +226,7 @@ comments: false
     </blockquote>
     
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc002.jpg" alt="Mount Bromo & Semeru" loading="lazy">
+      <img src="/img/journal/Indonesia/pc002.jpg" alt="Mount Bromo & Semeru" loading="lazy">
       <figcaption>Mount Bromo &amp; Semeru</figcaption>
     </figure>
 
@@ -235,12 +235,12 @@ comments: false
     </blockquote>
     
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc003.jpg" alt="迷雾森林悬崖" loading="lazy">
+      <img src="/img/journal/Indonesia/pc003.jpg" alt="迷雾森林悬崖" loading="lazy">
       <figcaption>迷雾森林悬崖</figcaption>
     </figure>
     
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc004.jpg" alt="下山过程中" loading="lazy">
+      <img src="/img/journal/Indonesia/pc004.jpg" alt="下山过程中" loading="lazy">
       <figcaption>下山过程中</figcaption>
     </figure>
     
@@ -249,7 +249,7 @@ comments: false
     </blockquote>
     
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc005.jpg" alt="火山村口路边餐厅" loading="lazy">
+      <img src="/img/journal/Indonesia/pc005.jpg" alt="火山村口路边餐厅" loading="lazy">
       <figcaption>火山村口路边餐厅</figcaption>
     </figure>
     
@@ -258,7 +258,7 @@ comments: false
     </blockquote>
     
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc006.jpg" alt="行程路线" loading="lazy">
+      <img src="/img/journal/Indonesia/pc006.jpg" alt="行程路线" loading="lazy">
       <figcaption>行程路线</figcaption>
     </figure>
     
@@ -276,7 +276,7 @@ comments: false
     </blockquote>
 
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/balimap.jpg" alt="巴厘岛旅程路线" loading="lazy">
+      <img src="/img/journal/Indonesia/balimap.jpg" alt="巴厘岛旅程路线" loading="lazy">
       <figcaption>巴厘岛旅程路线</figcaption>
     </figure>
 
@@ -285,7 +285,7 @@ comments: false
     </blockquote>
 
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc007.jpg" alt="ijen backpacker" loading="lazy">
+      <img src="/img/journal/Indonesia/pc007.jpg" alt="ijen backpacker" loading="lazy">
       <figcaption>ijen backpacker</figcaption>
     </figure>
 
@@ -301,7 +301,7 @@ comments: false
     </blockquote>
 
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc008.jpg" alt="去巴厘岛的轮渡" loading="lazy">
+      <img src="/img/journal/Indonesia/pc008.jpg" alt="去巴厘岛的轮渡" loading="lazy">
       <figcaption>去巴厘岛的轮渡</figcaption>
     </figure>
 
@@ -310,7 +310,7 @@ comments: false
     </blockquote>
 
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc009.jpg" alt="放学的巴厘岛学生" loading="lazy">
+      <img src="/img/journal/Indonesia/pc009.jpg" alt="放学的巴厘岛学生" loading="lazy">
       <figcaption>放学的巴厘岛学生</figcaption>
     </figure>
 
@@ -319,12 +319,12 @@ comments: false
     </blockquote>
 
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc010.jpg" alt="房间外小道" loading="lazy">
+      <img src="/img/journal/Indonesia/pc010.jpg" alt="房间外小道" loading="lazy">
       <figcaption>房间外小道</figcaption>
     </figure>
 
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc011.jpg" alt="海滩露天bar" loading="lazy">
+      <img src="/img/journal/Indonesia/pc011.jpg" alt="海滩露天bar" loading="lazy">
       <figcaption>海滩露天bar</figcaption>
     </figure>
 
@@ -333,7 +333,7 @@ comments: false
     </blockquote>
 
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc012.jpg" alt="看海的人" loading="lazy">
+      <img src="/img/journal/Indonesia/pc012.jpg" alt="看海的人" loading="lazy">
       <figcaption>看海的人</figcaption>
     </figure>
 
@@ -342,7 +342,7 @@ comments: false
     </blockquote>
 
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc013.jpg" alt="跃起的海豚群" loading="lazy">
+      <img src="/img/journal/Indonesia/pc013.jpg" alt="跃起的海豚群" loading="lazy">
       <figcaption>跃起的海豚群</figcaption>
     </figure>
 
@@ -359,7 +359,7 @@ comments: false
     </blockquote>
 
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc014.jpg" alt="Luwak Coffee 始作俑者" loading="lazy">
+      <img src="/img/journal/Indonesia/pc014.jpg" alt="Luwak Coffee 始作俑者" loading="lazy">
       <figcaption>Luwak Coffee 始作俑者</figcaption>
     </figure>
 
@@ -380,7 +380,7 @@ comments: false
     </blockquote>
 
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc015.jpg" alt="Kuta落日沙滩" loading="lazy">
+      <img src="/img/journal/Indonesia/pc015.jpg" alt="Kuta落日沙滩" loading="lazy">
       <figcaption>Kuta落日沙滩</figcaption>
     </figure>
 
@@ -394,7 +394,7 @@ comments: false
     </blockquote>
 
     <figure>
-      <img src="{{ site.baseurl }}/img/journal/Indonesia/pc017.jpg" alt="飞行红色机翼" loading="lazy">
+      <img src="/img/journal/Indonesia/pc017.jpg" alt="飞行红色机翼" loading="lazy">
       <figcaption>飞行红色机翼</figcaption>
     </figure>
 
