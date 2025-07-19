@@ -21,7 +21,7 @@ comments: false
 </p>
 
 <blockquote>
-<p>在即将到来的研究生毕业典礼之前，决定来一场短暂的毕业旅行。在给两个表姐们说了这个想法之后，表姐们也想和我一起去泰国玩，于是我们三人一行在重庆集合出发啦。</p>
+<p>在即将到来的研究生毕业典礼之前，决定来一场短暂的毕业旅行。在给两个表姐们偶尔交谈中说了这个想法之后，表姐们也想和我一起去泰国玩，于是我们三人在重庆集合出发。</p>
 </blockquote>
 
 <p>
@@ -38,12 +38,12 @@ comments: false
 </figure>
 </p>
 
-<p>
+<!-- <p>
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Thailand/pc003.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">飞机上</figcaption>
 </figure>
-</p>
+</p> -->
 
 <blockquote>
 <p>第一天住在曼谷中国城附近的 URBY Hotel。行李一放，就赶紧出门溜达，顺便在中国城找点好吃的！随便买了点街边小吃，但可能太甜了，实在吃不惯，就浅尝辄止。逛了一会儿，可能是刚下飞机有点累，索性回Hotel洗漱休息，养足精神再继续接下来的行程！</p>
@@ -91,7 +91,7 @@ comments: false
 <p>
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Thailand/pc008.jpg" alt="alt text" width="680px" height="420px">
-  <figcaption style="font-size: 14px; color: gray;">我和尹佳在阳台上</figcaption>
+  <figcaption style="font-size: 14px; color: gray;">在阳台上</figcaption>
 </figure>
 </p>
 
@@ -106,12 +106,12 @@ comments: false
 </figure>
 </p>
 
-<p>
+<!-- <p>
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Thailand/pc011.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">ICONSIAM 楼顶（表姐们）</figcaption>
 </figure>
-</p>
+</p> -->
 
 <p>
 <figure>
@@ -145,19 +145,19 @@ comments: false
 <p>
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Thailand/pc017.jpg" alt="alt text" width="680px" height="420px">
-  <figcaption style="font-size: 14px; color: gray;">大皇宫内1</figcaption>
+  <figcaption style="font-size: 14px; color: gray;">大皇宫内</figcaption>
 </figure>
 </p>
-<p>
+<!-- <p>
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Thailand/pc016.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">大皇宫内2</figcaption>
 </figure>
-</p>
+</p> -->
 <p>
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Thailand/pc018.jpg" alt="alt text" width="680px" height="420px">
-  <figcaption style="font-size: 14px; color: gray;">大皇宫内3</figcaption>
+  <figcaption style="font-size: 14px; color: gray;">大皇宫内</figcaption>
 </figure>
 </p>
 
@@ -175,12 +175,12 @@ comments: false
 </figure>
 </p>
 
-<p>
+<!-- <p>
 <figure>
   <img src="{{ site.baseurl }}/img/journal/Thailand/pc019.jpg" alt="alt text" width="680px" height="420px">
   <figcaption style="font-size: 14px; color: gray;">郑王庙下</figcaption>
 </figure>
-</p>
+</p> -->
 
 <blockquote>
 <p><strong>补充介绍：</strong></p>
@@ -192,7 +192,7 @@ comments: false
 
 <blockquote>
 <p>
-晚上，我们找到了一家位于曼谷的gay bar（The Stranger），打算去体验一下。不过，表姐们对此并不感兴趣（毕竟她们是stright），于是我一个人去了。这家酒吧的氛围非常棒，灯光迷幻，音乐节奏感十足，充满了自由和包容的气息。我点了一杯鸡尾酒，名字已经记不清了。站在楼梯口边，我一边喝着酒，一边等待表演开始。这里的表演是以“drag queen”（变装皇后）为主题的演出，演员们妆容华丽、服装夸张，表演充满了戏剧性和艺术感，让人充满新鲜感。
+晚上，我们找到了一家位于曼谷的小 gay bar（The Stranger），打算去体验一下。不过，表姐们对此并不感兴趣（毕竟她们是stright），于是我一个人去了。这家酒吧的氛围非常棒，灯光迷幻，音乐节奏感十足，充满了自由和包容的气息。我点了一杯鸡尾酒，名字已经记不清了。站在楼梯口边，我一边喝着酒，一边等待表演开始。这里的表演是以“drag queen”为主题的演出，充满了戏剧性，挺有新鲜感。
 </p>
 </blockquote>
 
@@ -206,7 +206,7 @@ comments: false
 
 <blockquote>
 <p>
-看完表演，喝完酒后，我有点微醺，姐姐们也过来陪我一起回住宿的地方了。很享受这一刻，也真的很喜欢泰国的夏天。
+看完表演，喝完酒后，我有点微醺，表姐们也过来陪我一起回住宿的地方了。很享受这一刻，也真的很喜欢泰国的夏天。
 </p>
 </blockquote>
 
