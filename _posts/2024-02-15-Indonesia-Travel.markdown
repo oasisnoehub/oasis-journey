@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Volcano Diaries: Mount Bromo & Semeru 🌋 "
+title:      "Volcano Diaries: Mount Bromo & Semeru 🌋 火山日记"
 subtitle:   "From Malaysia to Indonesia | 从马来西亚到印度尼西亚"
 active: journal
 image:
